@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <title>How this website was built (with Hugo) - Steven&#39;s Snippets</title>
-  <meta property="og:title" content="How this website was built (with Hugo) - Steven&#39;s Snippets" />
-  <meta name="twitter:title" content="How this website was built (with Hugo) - Steven&#39;s Snippets" />
+  <title>How this website was built (with Hugo and github) - Steven&#39;s Snippets</title>
+  <meta property="og:title" content="How this website was built (with Hugo and github) - Steven&#39;s Snippets" />
+  <meta name="twitter:title" content="How this website was built (with Hugo and github) - Steven&#39;s Snippets" />
   <meta name="description" content="Websites usually do not have a &lsquo;how it was built&rsquo; page.
 But for this one, I felt compelled to have one. The content is of course mine, but I would not have been able to build this without many free tools, software and guidance. And I am convinced that when taking stuff from a community, one should also use best efforts to contribute. So here is my, very humble, contribution.">
   <meta property="og:description" content="Websites usually do not have a &lsquo;how it was built&rsquo; page.
@@ -50,7 +50,7 @@ But for this one, I felt compelled to have one. The content is of course mine, b
     <article class="article">
       
       
-      <h1 class="article-title">How this website was built (with Hugo)</h1>
+      <h1 class="article-title">How this website was built (with Hugo and github)</h1>
       
       <hr class="article-title-bottom">
       <ul class="article-meta">
@@ -104,6 +104,11 @@ But for this one, I felt compelled to have one. The content is of course mine, b
         <li><a href="#65-populate-with-content">6.5 Populate with content</a></li>
         <li><a href="#66-setting-up-the-second-repo">6.6 Setting up the second repo</a></li>
         <li><a href="#67-deploy-and-enjoy">6.7 Deploy and enjoy!</a></li>
+      </ul>
+    </li>
+    <li><a href="#7-updates-and-changes">7. Updates and changes</a>
+      <ul>
+        <li><a href="#71-lf-and-crlf">7.1 LF and CRLF</a></li>
       </ul>
     </li>
   </ul>
@@ -322,6 +327,18 @@ git push origin main</p>
 <p>This step 6.7 will be repeated for every amendment to be made to the website.</p>
 <p>After 5 to 10 minutes (sometimes even after 1 or 2 minutes) the website is available on github, and on github pages (i.e. https://<em>myusername</em>.github.io, in my case <a href="https://sv1124.github.io">https://sv1124.github.io</a>).</p>
 <p>Enjoy (and let me know if any of the above doesn&rsquo;t work!)</p>
+<h2 id="7-updates-and-changes">7. Updates and changes</h2>
+<h3 id="71-lf-and-crlf">7.1 LF and CRLF</h3>
+<p>When adding my files to github, I always got the following warning:</p>
+<blockquote>
+<p>warning: in the working copy of &lsquo;$$&rsquo;, LF will be replaced by CRLF the next time Git touches it</p>
+</blockquote>
+<p>On the basis of <a href="https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important">this</a> very useful answer on stackoverflow, and the <a href="https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration#Formatting-and-Whitespace">git documentation </a> on this matter, I learned that this is due to the difference between unix systems presenting the end of a line with a line feed (LF) and windows with a carriage return and line feed (CRLF). The theme I am using was likely coded using a unix system, hence the warning.</p>
+<p>I turned off the warning with the following command, which in fact auto-converts CRLF line endings into LF when I add a file to the index, and vice versa when it checks out code onto your filesystem.</p>
+<blockquote>
+<p>git config core.autocrlf true</p>
+</blockquote>
+<p>I understand from the documentation that this should not be used too lightly when cooperating with people on other machines.</p>
 
     </article>
 
