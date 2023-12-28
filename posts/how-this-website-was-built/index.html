@@ -206,10 +206,16 @@ But for this one, I felt compelled to have one. The content is of course mine, b
 <p>If you are going to be using github (as I did), you will also need Git installed on your PC. I would suggest to follow the <a href="https://github.com/git-guides/install-git">installation guide available on Github.</a>. A grapical interface is available, but Git Bash is what you will need, as it allows to use text-based commands.</p>
 <p>Alternatively (and this is the approach I followed), you can install posh-git in the powershell (see the guide <a href="https://git-scm.com/book/ms/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Powershell">here</a> and even more detailed guidance <a href="https://computingforgeeks.com/posh-git-powershell-environment-for-git/">here</a> if the below wouldn&rsquo;t work for you or if you need additional guidance), allowing you to communicate with github through the Windows powershell. To do so we will install posh-git, import it into the powershell profile.</p>
 <blockquote>
-<p>update-module powershellget -force
-install-module posh-git -scope steve -force
-import-module posh-git
-add-poshgittoprofile -allhosts</p>
+<p>update-module powershellget -force</p>
+</blockquote>
+<blockquote>
+<p>install-module posh-git -scope steve -force</p>
+</blockquote>
+<blockquote>
+<p>import-module posh-git</p>
+</blockquote>
+<blockquote>
+<p>add-poshgittoprofile -allhosts</p>
 </blockquote>
 <h3 id="62-get-a-github-account-and-set-up-two-repositories">6.2 Get a github account and set up two repositories</h3>
 <p>Go to <a href="github.com">Github.com</a> and open an account if you do not have one.</p>
@@ -221,8 +227,10 @@ add-poshgittoprofile -allhosts</p>
 </ul>
 <p>Then, in Powershell, clone the Blog repository and open it in powershell.</p>
 <blockquote>
-<p>git clone <a href="https://github.com/SV1124/Blog.git">https://github.com/SV1124/Blog.git</a>
-cd Blog</p>
+<p>git clone <a href="https://github.com/SV1124/Blog.git">https://github.com/SV1124/Blog.git</a></p>
+</blockquote>
+<blockquote>
+<p>cd Blog</p>
 </blockquote>
 <h3 id="63-actually-make-the-new-website">6.3 Actually make the new website</h3>
 <p>Next up: firing up the new website</p>
@@ -306,9 +314,13 @@ Over there, made the second repo.</p>
 </blockquote>
 <p>Now let&rsquo;s commit that new readme to github, with the message &ldquo;readme&rdquo;, and push it to the main branch:</p>
 <blockquote>
-<p>add .
-commit -m &ldquo;readme&rdquo;
-git push origin main</p>
+<p>add .</p>
+</blockquote>
+<blockquote>
+<p>commit -m &ldquo;readme&rdquo;</p>
+</blockquote>
+<blockquote>
+<p>git push origin main</p>
 </blockquote>
 <p>Now, on github.com, we can check the new &lsquo;main&rsquo; branch being available &amp; the readme file being included in there.</p>
 <p>After this, went back to my \blog\stevenssnippets folder, to add a git <a href="https://git-scm.com/book/en/v2/Git-Tools-Submodules">submodule, which allows me to keep a git repo as a subdirectory of another repo</a>.</p>
@@ -332,9 +344,13 @@ git push origin main</p>
 </blockquote>
 <p>And now, deploy the thing.</p>
 <blockquote>
-<p>add .
-commit -m &ldquo;initial deployment&rdquo;
-git push origin main</p>
+<p>add .</p>
+</blockquote>
+<blockquote>
+<p>commit -m &ldquo;initial deployment&rdquo;</p>
+</blockquote>
+<blockquote>
+<p>git push origin main</p>
 </blockquote>
 <p>This step 6.7 will be repeated for every amendment to be made to the website.</p>
 <p>After 5 to 10 minutes (sometimes even after 1 or 2 minutes) the website is available on github, and on github pages (i.e. https://<em>myusername</em>.github.io, in my case <a href="https://sv1124.github.io">https://sv1124.github.io</a>).</p>
