@@ -10,11 +10,11 @@
     <lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://SV1124.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Going live</title>
-      <link>https://SV1124.github.io/posts/going-live/</link>
+      <title>How this website was built (with Hugo)</title>
+      <link>https://SV1124.github.io/posts/how-this-website-was-built/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://SV1124.github.io/posts/going-live/</guid>
-      <description>Here we are, a brand new blog. Some old content, some new content planned. After a year of using LinkedIn for blogging, I have decided I want to take it one step further and bundle some more stuff on here.&#xA;This has various reasons:&#xA;I get to keep better control over where my content ends up, if LinkedIn changes its business model, that&amp;rsquo;s not on me.&#xA;I do believe that a fragmented internet with easily accessible and searchable content is what the internet should be.</description>
+      <guid>https://SV1124.github.io/posts/how-this-website-was-built/</guid>
+      <description>Websites usually do not have a &amp;lsquo;how it was built&amp;rsquo; page.&#xA;But for this one, I felt compelled to have one. The content is of course mine, but I would not have been able to build this without many free tools, software and guidance. And I am convinced that when taking stuff from a community, one should also use best efforts to contribute. So here is my, very humble, contribution.</description>
     </item>
     <item>
       <title>New FSMA outsourcing guidelines for AIFMs, UCITS and asset managers/investment advisors - 10 key take-aways and 2 bis rounds</title>
