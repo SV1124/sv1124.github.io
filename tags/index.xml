@@ -1,12 +1,153 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Steven&#39;s Snippets</title>
+    <title>Steven&#39;s Snippets</title>
     <link>https://SV1124.github.io/tags/</link>
-    <description>Recent content in Tags on Steven&#39;s Snippets</description>
+    <description>Recent content on Steven&#39;s Snippets</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024 Steven Verschoot</copyright>
+    <lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://SV1124.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>linkedin</title>
+      <link>https://SV1124.github.io/tags/linkedin/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/linkedin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>minimal computing</title>
+      <link>https://SV1124.github.io/tags/minimal-computing/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/minimal-computing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>web dev</title>
+      <link>https://SV1124.github.io/tags/web-dev/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/web-dev/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AIFM</title>
+      <link>https://SV1124.github.io/tags/aifm/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/aifm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Belgian law</title>
+      <link>https://SV1124.github.io/tags/belgian-law/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/belgian-law/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Outsourcing</title>
+      <link>https://SV1124.github.io/tags/outsourcing/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/outsourcing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UCITS</title>
+      <link>https://SV1124.github.io/tags/ucits/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/ucits/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ESMA</title>
+      <link>https://SV1124.github.io/tags/esma/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/esma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EU law</title>
+      <link>https://SV1124.github.io/tags/eu-law/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/eu-law/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marketing</title>
+      <link>https://SV1124.github.io/tags/marketing/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sub-threshold AIFMs</title>
+      <link>https://SV1124.github.io/tags/sub-threshold-aifms/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/sub-threshold-aifms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Retail package</title>
+      <link>https://SV1124.github.io/tags/retail-package/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/retail-package/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Undue costs</title>
+      <link>https://SV1124.github.io/tags/undue-costs/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/undue-costs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virtual currencies</title>
+      <link>https://SV1124.github.io/tags/virtual-currencies/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/virtual-currencies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brexit</title>
+      <link>https://SV1124.github.io/tags/brexit/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/brexit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>mifid</title>
+      <link>https://SV1124.github.io/tags/mifid/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/mifid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Relocation</title>
+      <link>https://SV1124.github.io/tags/relocation/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/relocation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>passporting</title>
+      <link>https://SV1124.github.io/tags/passporting/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/passporting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SPAC</title>
+      <link>https://SV1124.github.io/tags/spac/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/spac/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FTX</title>
+      <link>https://SV1124.github.io/tags/ftx/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/ftx/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
