@@ -7,11 +7,13 @@
   <meta property="og:title" content="How this website was built (with Hugo and github) - Steven&#39;s Snippets" />
   <meta name="twitter:title" content="How this website was built (with Hugo and github) - Steven&#39;s Snippets" />
   <meta name="description" content="Websites usually do not have a &lsquo;how it was built&rsquo; page.
-But for this one, I felt compelled to have one. The content is of course mine, but I would not have been able to build this without many free tools, software and guidance. And I am convinced that when taking stuff from a community, one should also use best efforts to contribute. So here is my, very humble, contribution.">
+But for this one, I felt compelled to have one. I would not have been able to build this without freely available tools, software and guidance. I am convinced that when taking stuff from a community, one should also use best efforts to contribute. Let this be my humble contribution.
+Hope it may provide some inspiration or help to other people considering building their own blog or webpage and looking past the well-trodden CMS, Wix&rsquo;es or Squarespaces of this world.">
   <meta property="og:description" content="Websites usually do not have a &lsquo;how it was built&rsquo; page.
-But for this one, I felt compelled to have one. The content is of course mine, but I would not have been able to build this without many free tools, software and guidance. And I am convinced that when taking stuff from a community, one should also use best efforts to contribute. So here is my, very humble, contribution.">
+But for this one, I felt compelled to have one. I would not have been able to build this without freely available tools, software and guidance. I am convinced that when taking stuff from a community, one should also use best efforts to contribute. Let this be my humble contribution.
+Hope it may provide some inspiration or help to other people considering building their own blog or webpage and looking past the well-trodden CMS, Wix&rsquo;es or Squarespaces of this world.">
   <meta name="twitter:description" content="Websites usually do not have a &lsquo;how it was built&rsquo; page.
-But for this one, I felt compelled to have one. The content is of course mine, but I would not have been able to build this without …">
+But for this one, I felt compelled to have one. I would not have been able to build this without freely available tools, software …">
   <meta name="author" content="Steven Verschoot"/>
   <meta property="og:site_name" content="Steven&#39;s Snippets" />
   <meta property="og:url" content="https://SV1124.github.io/posts/how-this-website-was-built/" />
@@ -127,39 +129,40 @@ But for this one, I felt compelled to have one. The content is of course mine, b
 </nav>
 </aside>
       <p>Websites usually do not have a &lsquo;how it was built&rsquo; page.</p>
-<p>But for this one, I felt compelled to have one. The content is of course mine, but I would not have been able to build this without many free tools, software and guidance. And I am convinced that when taking stuff from a community, one should also use best efforts to contribute. So here is my, very humble, contribution.</p>
-<p>Hope it may provide some inspiration or, even better, help, to other people considering building their own blog or webpage and looking past the well-trodden CMS, Wix&rsquo;es or Squarespaces of this world.</p>
-<p>*(And, of course, it is also a handy project manual for myself, should I wish to embark on similar projects in the future) *</p>
+<p>But for this one, I felt compelled to have one. I would not have been able to build this without freely available tools, software and guidance. I am convinced that when taking stuff from a community, one should also use best efforts to contribute. Let this be my humble contribution.</p>
+<p>Hope it may provide some inspiration or help to other people considering building their own blog or webpage and looking past the well-trodden CMS, Wix&rsquo;es or Squarespaces of this world.</p>
+<p>(And, of course, it is also a handy project manual for myself, should I wish to embark on similar projects in the future.)</p>
 <h2 id="1-ssg-instead-of-cms">1. SSG instead of CMS</h2>
 <h3 id="blog-platforms-and-cms">Blog platforms and CMS</h3>
-<p>In the past I used many tools to build blogs, mainly <a href="blogger.com">Blogger</a>, <a href="drupal.org">Drupal</a> and <a href="wordpress.org">Wordpress</a> (both self-hosted and on wordpress.com).</p>
-<p>These blog platforms and content management systems have several advantages: they are relatively easy to set up (especially wordpress.com and blogger, have a wide network to tap into and are free. Hosting a wordpress or drupal increases complexity, but gives nearly unlimited control. Posting is easy as can be, with nice wysiwyg editors.</p>
-<p>However, they are also cumbersome and heavy. As powerful as they are, they feel  like overkill for a tiny simple personal blog like this one. So I went on th lookout for an alternative.</p>
+<p>In the past I used many blog platforms and content management systems to build blogs, mainly <a href="blogger.com">Blogger</a>, <a href="drupal.org">Drupal</a> and <a href="wordpress.org">Wordpress</a> (both self-hosted and on wordpress.com).</p>
+<p>They are relatively easy to set up, have a wide network to tap into and are mostly free(mium). Hosting a wordpress or drupal increases complexity, but gives nearly unlimited control. Posting is easy as can be, with nice wysiwyg editors. However, they are also cumbersome and heavy. They feel  like overkill for a tiny simple personal blog like this one. So I went on th lookout for an alternative.</p>
 <h3 id="website-builders-or-content-platforms">Website builders or content-platforms</h3>
-<p>Websites like <a href="https://www.wix.com/">Wix</a> and <a href="https://www.squarespace.com/">Squarespace</a> seem to be less &lsquo;cumbersome&rsquo; and have you up and running fast (if you don&rsquo;t mind paying). <a href="substack.com">Substack</a> and <a href="medium.com">medium.com</a> are content-based platforms that are even easier and are very content-focused.</p>
-<p>However, for a hobby-project like this one, I <em>do</em> mind paying. I also do not want to be making money with what I write. I also didn&rsquo;t want the lock-in such platforms entail (I could as well have stuck to LinkedIn blogs then&hellip;), and wanted more control than medium or substack offer.</p>
+<p>Websites like <a href="https://www.wix.com/">Wix</a> and <a href="https://www.squarespace.com/">Squarespace</a> are less &lsquo;cumbersome&rsquo;, give lots of control and have you up and running fast (if you don&rsquo;t mind paying). <a href="substack.com">Substack</a> and <a href="medium.com">medium.com</a> are content-based platforms that are even easier and are very content-focused.</p>
+<p>However, for a hobby-project like this one, I <em>do</em> mind paying. I also do not want the lock-in such platforms entail (I could as well have stuck to LinkedIn blogs then&hellip;), and wanted more control than medium or substack offer.</p>
 <h3 id="static-site-generators">Static site generators</h3>
-<p>It takes some diving into the internet, but after a while I bumped into the concept of a static site generator. These tools compile a website based on a template (that can be downloaded and/or written) and content. Simplified: instead of working on the basis of a database that is extracted to a front page (as do content management systems), it generates a bunch of seperate pages that simply link to eachother (a static site). The result is a sleek and fast website (as the website isn&rsquo;t making calls to an underlying database or running an underlying javascript for every click), that is also supposed to be more secure. A more elaborate description can be found <a href="https://www.cloudflare.com/en-gb/learning/performance/static-site-generator/">here</a>.</p>
+<p>Then I bumped into the concept of static site generators. These tools compile a website based on a template and content. Instead of relying on a database that is extracted to a front page (as do content management systems), they generate separate pages that simply link to each other (a static site). The result is a sleek and fast website, as the website isn&rsquo;t making calls to an underlying database or running an underlying javascript for every click. For the same reason, it is also supposed to be more secure. An elaborate description can be found <a href="https://www.cloudflare.com/en-gb/learning/performance/static-site-generator/">here</a>.</p>
 <p>The main <em><strong>downsides</strong></em> are the following:</p>
 <ol>
 <li>
-<p>a static website is, well, <em>static</em>. There is no going back and forth and no user input possible. That is not an issue for a blog like mine - I am writing, you (the reader) are reading. No dynamics necessary. And if I would require dynamics in the future, there are several tools that make it possible to integrate dynamic elements, like <a href="https://www.cloudflare.com/en-gb/learning/performance/static-site-generator/">Disqus</a>.</p>
+<p>a static website is, well, <em>static</em>. There is no going back and forth and no user input possible. That is not an issue for a blog like mine - I am writing, you (the reader) are reading. And if I would require dynamics in the future, there are several tools that make it possible to integrate dynamic elements, like <a href="https://www.cloudflare.com/en-gb/learning/performance/static-site-generator/">Disqus</a>.</p>
 </li>
 <li>
-<p>Generally speaking, there is a bit of a learning curve and a bit of tinkering involved. This is not a &lsquo;get it up and running in 10 minutes&rsquo; type of thing. But then, isn&rsquo;t that part of the fun?</p>
+<p>there is a learning curve and a bit of tinkering involved. This is not a &lsquo;<em>get it up and running in 10 minutes</em>&rsquo; type of thing. But then, isn&rsquo;t that part of the fun?</p>
 </li>
 </ol>
 <p>As I don&rsquo;t mind the downsides and like the idea of having a sharp tool that is as simple as it can be do get the job done, I went for it.</p>
 <h2 id="2-the-choice-for-hugo">2. The choice for Hugo</h2>
-<p>To cut to the chase, this website was built using <a href="https://gohugo.io/">Hugo</a> site generator.</p>
-<p>Hugo is not the only SSG though, and depending on preferences other generators might be better suited to your wishes. Other ones I considered were <a href="https://www.getzola.org/">zola</a> (which is supposed to be even faster than Hugo) and <a href="https://jekyllrb.com/">Jekyll</a> (which powers github pages, so is quite popular as well), but there&rsquo;s many more (eg Sveltekit, Pelican, Hexo, Middleman, etc.).</p>
+<p>This website was built using <a href="https://gohugo.io/">Hugo</a>, a static site generator.</p>
 <p>I ended up choosing Hugo for a.o. the following reasons:</p>
 <ul>
 <li>
-<p>I actually tried building the website in Zola, Jekyll and Hugo, and found most and most useful <a href="https://gohugo.io/documentation/">documentation</a> for Hugo. The <a href="https://discourse.gohugo.io/">community</a> seems active and helpful. Generally speaking, I was quite comfortable very fast in Hugo as well. Your mileage my vary.</p>
+<p>I started out in Jekyll, but couldn&rsquo;t get the hang of it.</p>
 </li>
 <li>
-<p>When building with Zola, I experienced quite some compiling issues, that seem to be linked to me working from a windows machine (see <a href="https://www.google.com/search?hl=en&amp;q=zola%20compiling%20issues%20windows">link_text</a>). Hugo did not have such issues. Here too, your mileage may vary.</p>
+<p>While building with Zola, I experienced compiling issues that seem to be linked to me working from a windows machine (see <a href="https://www.google.com/search?hl=en&amp;q=zola%20compiling%20issues%20windows">link_text</a>). Hugo did not have such issues. Your mileage may vary.</p>
+</li>
+<li>
+<p>There is plenty of useful <a href="https://gohugo.io/documentation/">documentation</a> for Hugo. The <a href="https://discourse.gohugo.io/">community</a> seems active and helpful. Generally speaking, I was quite comfortable very fast in Hugo as well. Your mileage my vary.</p>
 </li>
 <li>
 <p>Hugo is supposed to be <a href="https://michaelnordmeyer.com/benchmarking-hugo-vs-jekyll-vs-github-pages-in-2023">faster than Jekyll</a> (although the difference has grown smaller over the past years).</p>
@@ -168,34 +171,32 @@ But for this one, I felt compelled to have one. The content is of course mine, b
 <p>Hugo is simple, easy (once you get the hang of it) and fast. It can be explained in 40 minutes. And there&rsquo;s plenty of good articles and <a href="https://www.youtube.com/watch?v=ZFL09qhKi5I">youtube movies</a> doing exactly this.</p>
 </li>
 </ul>
+<p>Depending on preferences other SSGs might be better suited to your wishes. Other ones I considered were <a href="https://www.getzola.org/">zola</a> (which is supposed to be even faster than Hugo) and <a href="https://jekyllrb.com/">Jekyll</a> (which powers github pages, so is quite popular as well), but there&rsquo;s many more (eg Sveltekit, Pelican, Hexo, Middleman, etc.).</p>
 <h2 id="3-picking-a-theme-whiteplain">3. Picking a theme: Whiteplain</h2>
-<p>A theme is important, as it basically determines the lay-out of the website. I do not feel sufficiently comfortable in my html/css/javascript skills to write my own theme, so went on the lookout.</p>
+<p>A theme is important, as it basically determines the lay-out of the website. I am not sufficiently comfortable in my html/css/javascript skills to write my own theme yet, so went on the lookout.</p>
 <p>The hugo-website has a very useful <a href="https://themes.gohugo.io/">list of themes</a>, which contains some true beauties that are fit for all purposes.</p>
-<p>After testing some themes, for now I settled on <a href="https://themes.gohugo.io/themes/whiteplain/">Whiteplain</a>, which I modded a bit as I saw fit. It is made available under <a href="https://mit-license.org/">MIT license</a>, so there&rsquo;s few limits on using it.</p>
-<p>This will most likely not be the final theme of this blog, but it&rsquo;s a good and versatile start.</p>
+<p>For now I settled on <a href="https://themes.gohugo.io/themes/whiteplain/">Whiteplain</a>, which I modded a bit. It is made available under <a href="https://mit-license.org/">MIT license</a>, so it can be used quite freely.</p>
 <h2 id="4-hosting-github-pages">4. Hosting: github pages</h2>
-<p>Here too, there&rsquo;s many options to host a static website.</p>
+<p>There&rsquo;s many options to host a static website. As you don&rsquo;t need a database, you can basically host it on any domain that has FTP access.</p>
 <p>I settled on <a href="https://pages.github.com/">github pages</a> because it is easy to use (once you get the hang of the git basics), fast, free, and secure (as I do not wish to purchase a domain name for now). Its main <a href="https://kevinsweet.com/pros-cons-github-pages">downsides</a> (less control over URLs, low cache expires, need to use a subdomain) are less relevant to me.</p>
-<p>Mind you, I only used github pages to <em>host</em> my hugo-built website, I did not design the website using github pages (which is an option as well).</p>
+<p>Note that I only used github pages to <em>host</em> my hugo-built website, I did not design the website using github pages (which is an option as well - such websites are powered by Jekyll).</p>
 <p>Other hostings that come by often when looking for Hugo hosting are netifly, gitlab, AWS amplify and Azure static web pages. <a href="https://gohugo.io/hosting-and-deployment/">Hugo documentation provides inspiration and assistance.</a></p>
 <h2 id="5-writing-ia-writer-and-notepad">5. Writing: IA writer and notepad++</h2>
-<p>Hugo does not have a wysiwyg editor. Instead, content is written in markdown. If you aren&rsquo;t used to this, it is a bit of a learning curve, but it&rsquo;s easy to grasp. A very good guide is available for free <a href="https://www.markdownguide.org/getting-started/">here</a>.</p>
-<p>There is a bunch of both free purpose-built markdown editors out there (eg, for web <a href="https://dillinger.io/">dilinger</a>, for linux &amp; windows <a href="https://kde.github.io/ghostwriter/">ghostwriter</a>, for mac <a href="https://macdown.uranusjr.com/">macdown</a>.</p>
-<p>However, the one I have been using for a couple of years now is <a href="https://ia.net/writer">iA writer</a> (available for mac, windows, android, ios -  you need separate licenses for each device. Furthermore, functionalities is not fully aligned.). I love the way it looks, handles files, its fonts, its live preview, its typewriter view and active sentence highlighting and its very extensive export options if I want to build my writings to pdfs or word documents. But here too, your mileage may vary - iA writer is not cheap and with the good free alternatives available, when just giving this a shot you might not be inclined to purchase right away (but trust me, the investment is worth it if you write a lot).</p>
+<p>Hugo does not have a wysiwyg editor. Instead, content is written in markdown. If you aren&rsquo;t used to this, it is a bit of a learning curve - but it&rsquo;s easy to grasp. A complete guide is available for free <a href="https://www.markdownguide.org/getting-started/">here</a>.</p>
+<p>There are many purpose-built markdown editors out there (eg, for web <a href="https://dillinger.io/">dilinger</a>, for linux &amp; windows <a href="https://kde.github.io/ghostwriter/">ghostwriter</a>, for mac <a href="https://macdown.uranusjr.com/">macdown</a>).</p>
+<p>The one I have been using for a couple of years now is <a href="https://ia.net/writer">iA writer</a> (available for mac, windows, android, ios - but you need separate licenses for each device). I love the way it looks, handles files, its fonts, its live preview, its typewriter view and active sentence highlighting and its very extensive export options if I want to build my writings to pdfs or word documents. But here too, your mileage may vary. IA writer is not cheap and with the good free alternatives available, you might not be inclined to purchase right away (but trust me, the investment is worth it if you write a lot).</p>
 <p>In addition, for editing CSS or html, i find <a href="https://notepad-plus-plus.org/">notepad++ </a> (for windows) very convenient. On mac I have used <a href="https://atom-editor.cc/">atom</a> (which is also available for windows and has github integration) for similar purposes. Both pieces of software are powerful, reasonably fast, give good syntax coloring and are free. I generally prefer notepad++ over atom, but that might be because I have be working with it for ages.</p>
 <h2 id="6-bringing-it-all-together-setting-up-the-blog">6. Bringing it all together: setting up the blog</h2>
 <p>There are various guides and how-to&rsquo;s on how to build a website using the above tools. If you like to tinker and google and have a few hours to spare, it isn&rsquo;t as hard as it might sound.</p>
-<p>I especially found the <a href="https://www.youtube.com/watch?v=LIFvgrRxdt4">&ldquo;creating a blog with Hugo and Github in 10 minutes&rdquo; video by Ryan Schachte</a> extremely useful, as this is exactly what I have been doing. There&rsquo;s other video&rsquo;s doing the same thing (eg. <a href="https://www.youtube.com/watch?v=_QSr2_pxIJs">here</a> and <a href="https://www.youtube.com/watch?v=_STFQc9Y2zY">here</a>).</p>
-<p>Thomas Beuzen also wrote it down on his blog (see <a href="https://www.tomasbeuzen.com/post/making-a-website-with-hugo/">here</a>) and Rahul Wagh has an even more extensive guide (see <a href="https://jhooq.com/hugo-vs-wordpress/">here</a>).</p>
-<p>And then of course there&rsquo;s the very extensive Hugo documentation to which I referred above (and google &amp; AI are dear friends).</p>
-<p>Most of the below will basically be a write-out of these videos and blogposts, here and there with some additions. I will not make screenshots - the above video&rsquo;s and posts would be better for that. I will mainly write out the process I followed - both for own future reference, and to give you an idea of what might work for you.</p>
-<p>The main thing to note is that I am using a windows 11 machine (and powershell) - so if you are using a mac or linux system, other guides may be more useful. I also am not a professional programmer or anything, so the below might not be the best way to do things - but so far it is the way that has worked for me. Wherever the below contains &lsquo;steve&rsquo;, that should be your username in your computer.</p>
+<p>I especially found the <a href="https://www.youtube.com/watch?v=LIFvgrRxdt4">&ldquo;creating a blog with Hugo and Github in 10 minutes&rdquo; video by Ryan Schachte</a> extremely useful, as this is exactly what I have been doing. There&rsquo;s other video&rsquo;s doing the same thing (eg. <a href="https://www.youtube.com/watch?v=_QSr2_pxIJs">here</a> and <a href="https://www.youtube.com/watch?v=_STFQc9Y2zY">here</a>). There are also some useful blogposts with detailed instructions (see ao <a href="https://www.tomasbeuzen.com/post/making-a-website-with-hugo/">here</a> and <a href="https://jhooq.com/hugo-vs-wordpress/">here</a>).</p>
+<p>Most of the below will basically be a write-out/summary of these videos and blogposts, here and there with some additions. I will not make screenshots - the above video&rsquo;s and posts would be better for that. I will mainly write out the process I followed - both for own future reference, and to give you an idea of what might work for you.</p>
+<p>Note that I am using a windows 11 machine (and powershell) - so if you are using a unix based system, other guides may be more useful. I also am not a professional programmer or engineer, so the below might not be the best way to do things - but so far it is the way that has worked for me.</p>
 <h3 id="61-install-hugo-and-git">6.1 Install Hugo and Git</h3>
 <p>Let&rsquo;s start by installing <a href="https://gohugo.io/installation/windows/">Hugo</a>. To be able to get Hugo, we need a content manager. I used <a href="https://github.com/ScoopInstaller/Scoop">scoop</a>, others (ao Winget and Chocolatey) are available. To do so, I first had to set my execution policy (of course in powershell).</p>
 <blockquote>
 <p>Set-ExecutionPolicy RemoteSigned -Scope steve</p>
 </blockquote>
-<p>Then I got to install Scoop.</p>
+<p>Then install Scoop.</p>
 <blockquote>
 <p>iwr -useb get.scoop.sh | iex</p>
 </blockquote>
@@ -204,7 +205,7 @@ But for this one, I felt compelled to have one. The content is of course mine, b
 <p>scoop intall hugo-extended</p>
 </blockquote>
 <p>If you are going to be using github (as I did), you will also need Git installed on your PC. I would suggest to follow the <a href="https://github.com/git-guides/install-git">installation guide available on Github.</a>. A grapical interface is available, but Git Bash is what you will need, as it allows to use text-based commands.</p>
-<p>Alternatively (and this is the approach I followed), you can install posh-git in the powershell (see the guide <a href="https://git-scm.com/book/ms/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Powershell">here</a> and even more detailed guidance <a href="https://computingforgeeks.com/posh-git-powershell-environment-for-git/">here</a> if the below wouldn&rsquo;t work for you or if you need additional guidance), allowing you to communicate with github through the Windows powershell. To do so we will install posh-git, import it into the powershell profile.</p>
+<p>Alternatively (and this is the approach I followed), you can install posh-git in the powershell (see the guide <a href="https://git-scm.com/book/ms/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Powershell">here</a> and even more detailed guidance <a href="https://computingforgeeks.com/posh-git-powershell-environment-for-git/">here</a> if the below wouldn&rsquo;t work for you or if you need additional guidance), allowing you to communicate with github through the powershell. To do so we will install posh-git, import it into the powershell profile.</p>
 <blockquote>
 <p>update-module powershellget -force</p>
 </blockquote>
@@ -223,9 +224,9 @@ But for this one, I felt compelled to have one. The content is of course mine, b
 <p>In github, make two new public repositories:</p>
 <ul>
 <li>one I called &lsquo;Blog&rsquo; (this is where the files live);</li>
-<li>the other one is called <em>yourusername</em>.github.io (so in my case SV1124/SV1124.github.io). This is from where my files are deployed.</li>
+<li>the other one I called <em>username</em>.github.io (so in my case SV1124/SV1124.github.io). This is from where my files are deployed.</li>
 </ul>
-<p>Then, in Powershell, clone the Blog repository and open it in powershell.</p>
+<p>In Powershell, clone the Blog repository and open it.</p>
 <blockquote>
 <p>git clone <a href="https://github.com/SV1124/Blog.git">https://github.com/SV1124/Blog.git</a></p>
 </blockquote>
@@ -233,38 +234,38 @@ But for this one, I felt compelled to have one. The content is of course mine, b
 <p>cd Blog</p>
 </blockquote>
 <h3 id="63-actually-make-the-new-website">6.3 Actually make the new website</h3>
-<p>Next up: firing up the new website</p>
+<p>Next up: rendering the new website.</p>
 <blockquote>
 <p>hugo new site stevenssnippets</p>
 </blockquote>
-<p>and opening it</p>
+<p>And opening it.</p>
 <blockquote>
 <p>cd stevenssnippets</p>
 </blockquote>
-<p>Now you find yourself in the Hugo structure that is described broadly above,</p>
+<p>Now you find yourself in the Hugo file structure.</p>
 <h3 id="64-install-my-theme">6.4 Install my theme</h3>
 <p>As indicated above, I went for whiteplain.</p>
-<p>In stevenssnippets, I opened up the themes folder</p>
+<p>In stevenssnippets, I opened up the themes folder.</p>
 <blockquote>
 <p>cd themes</p>
 </blockquote>
-<p>and installed the Whiteplain thee</p>
+<p>Then installed the Whiteplain theme.</p>
 <blockquote>
 <p>git clone <a href="https://github.com/taikii/whiteplain.git">https://github.com/taikii/whiteplain.git</a></p>
 </blockquote>
-<p>Then I went back to the stevenssnippets-folder, opened Hugo.toml and copied the whiteplain configuration wording in there (available <a href="https://themes.gohugo.io/themes/whiteplain/#configration">here</a>).</p>
+<p>Went back to the stevenssnippets-folder, opened Hugo.toml and copied the whiteplain configuration file in there (available <a href="https://themes.gohugo.io/themes/whiteplain/#configration">here</a>).</p>
 <p>In the Hugo.toml file (which I opened using notepad++), the baseurl should be the github pages repo (including &ldquo;/&rdquo; at the end).</p>
-<pre><code>baseurl = &quot;https://sv1124.github.io&quot;
+<pre><code>baseurl = &quot;https://sv1124.github.io/&quot;
 title = &quot;Steven's snippets&quot;
 theme = &quot;whiteplain&quot;
 </code></pre>
-<p>This is where I gave the website its first &rsquo;testrun&rsquo; from the &lsquo;stevenssnippets&rsquo;folder</p>
+<p>This is where I gave the website its first &rsquo;testrun&rsquo; from the &lsquo;stevenssnippets&rsquo; folder.</p>
 <blockquote>
 <p>hugo serve</p>
 </blockquote>
 <p>Now, in my browser, a live version was available on localhost:1313.</p>
 <h3 id="65-populate-with-content">6.5 Populate with content</h3>
-<p>This is also where I added some &rsquo;test content&rsquo;. In the &lsquo;content&rsquo; folder, I have the following file tree:</p>
+<p>This is also where I added some &rsquo;test content&rsquo;. In the &lsquo;content&rsquo; folder, I have the below file structure.</p>
 <pre><code>about   
 - _index.md
 archives   
@@ -278,10 +279,11 @@ categories
 - _index.md
 _index.md
 </code></pre>
-<p>Every post starts with the following header:</p>
+<p>Every post starts with the below header.</p>
 <pre><code>+++
 title = &quot;title text&quot;
 date = &quot;yyyy-dd-mm&quot;
+author = &quot;author name&quot;
 tags = [
  	&quot;tag1&quot;,
 	&quot;tag2&quot;,
@@ -293,26 +295,26 @@ categories = [
 ]
 +++
 </code></pre>
-<p>I also messed around a bit with the partials of the template (in particular header and footer) but that would bring us too far here.</p>
+<p>I also messed around a bit with the partials of the template (in particular header and footer, as well as the templates for ao my archives page) but that would bring us too far here.</p>
 <h3 id="66-setting-up-the-second-repo">6.6 Setting up the second repo</h3>
 <p>Now, in Powershell, back to my desktop.
 Over there, made the second repo.</p>
 <blockquote>
 <p>git clone <a href="https://github.com/sv1124/sv1124.github.io.git">https://github.com/sv1124/sv1124.github.io.git</a></p>
 </blockquote>
-<p>Open it up</p>
+<p>Open it up.</p>
 <blockquote>
 <p>cd sv1124.github.io</p>
 </blockquote>
-<p>Set up main branch</p>
+<p>Set up main branch.</p>
 <blockquote>
 <p>git checkout -b main</p>
 </blockquote>
-<p>Make a readme file to avoid having an empty repo</p>
+<p>Make a readme file to avoid having an empty repo.</p>
 <blockquote>
 <p>new-item readme.md</p>
 </blockquote>
-<p>Now let&rsquo;s commit that new readme to github, with the message &ldquo;readme&rdquo;, and push it to the main branch:</p>
+<p>Commit that new readme to github, with the message &ldquo;readme&rdquo;, and push it to the main branch.</p>
 <blockquote>
 <p>add .</p>
 </blockquote>
@@ -333,16 +335,16 @@ Over there, made the second repo.</p>
 </blockquote>
 <p>You can see that the git in fact refers back to the other repo.</p>
 <h3 id="67-deploy-and-enjoy">6.7 Deploy and enjoy!</h3>
-<p>Went back to \blog\stevenssnippets, and built the website with hugo.</p>
+<p>Went back to \blog\stevenssnippets, and built the website with Hugo.</p>
 <blockquote>
 <p>Hugo</p>
 </blockquote>
-<p>Hugo has now done its thing compiling template and content, and the built up website is now available in \blog\stevenssnippets\public.</p>
-<p>Let&rsquo;s open up that folder:</p>
+<p>Hugo has now done its thing compiling template and content, and the built up website is available in \blog\stevenssnippets\public.</p>
+<p>Open that folder.</p>
 <blockquote>
 <p>cd public</p>
 </blockquote>
-<p>And now, deploy the thing.</p>
+<p>And now, deploy.</p>
 <blockquote>
 <p>add .</p>
 </blockquote>
