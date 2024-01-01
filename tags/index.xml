@@ -7,8 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024 Steven Verschoot</copyright>
-    <lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://SV1124.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>linkedin</title>
+      <link>https://SV1124.github.io/tags/linkedin/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/linkedin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>minimal computing</title>
+      <link>https://SV1124.github.io/tags/minimal-computing/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/minimal-computing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>web dev</title>
+      <link>https://SV1124.github.io/tags/web-dev/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/web-dev/</guid>
+      <description></description>
+    </item>
     <item>
       <title>github</title>
       <link>https://SV1124.github.io/tags/github/</link>
@@ -28,13 +49,6 @@
       <link>https://SV1124.github.io/tags/ia-writer/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://SV1124.github.io/tags/ia-writer/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>web dev</title>
-      <link>https://SV1124.github.io/tags/web-dev/</link>
-      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://SV1124.github.io/tags/web-dev/</guid>
       <description></description>
     </item>
     <item>
