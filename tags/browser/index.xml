@@ -7,14 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024 Steven Verschoot</copyright>
-    <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://SV1124.github.io/tags/browser/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://SV1124.github.io/tags/browser/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I switched to Firefox (and maybe you should too)</title>
       <link>https://SV1124.github.io/posts/why-i-switched-to-firefox/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://SV1124.github.io/posts/why-i-switched-to-firefox/</guid>
-      <description>A short while ago, I had a minor issue with my computer. I called our IT service provider, who quickly came to my assistance. He wanted to download something and went out looking for Chrome when he saw the Firefox logo on my taskbar. &amp;ldquo;Oh, you are still using that?&amp;rdquo;. As if I still had Netscape or Internet Explorer - or something.&#xA;His reaction is emblematic. Together with the sharp increase of the use of Chrome (and other Chromium-based browsers with it), the use of Firefox has known a steady decline since its top around 2010 (see statcount chart here).</description>
+      <description>A short while ago, I had a minor issue with my computer. I called our IT service provider, who quickly came to my assistance. He wanted to download something and went out looking for Chrome when he saw the Firefox logo on my taskbar. &amp;ldquo;Oh, you are still using that?&amp;rdquo;. As if I still had Netscape or Internet Explorer - or something.
+His reaction is emblematic. Together with the sharp increase of the use of Chrome (and other Chromium-based browsers with it), the use of Firefox has known a steady decline since its top around 2010 (see statcount chart here).</description>
     </item>
+    
   </channel>
 </rss>

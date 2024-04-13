@@ -7,14 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024 Steven Verschoot</copyright>
-    <lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://SV1124.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://SV1124.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How this website was built</title>
       <link>https://SV1124.github.io/posts/how-this-website-was-built/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://SV1124.github.io/posts/how-this-website-was-built/</guid>
-      <description>Websites usually do not have a &amp;lsquo;how it was built&amp;rsquo; page.&#xA;But for this one, I felt compelled to have one. I would not have been able to build this without freely available tools, software and guidance. I am convinced that when taking stuff from a community, one should also use best efforts to contribute. Let this be my humble contribution.&#xA;Hope it may provide some inspiration or help to other people considering building their own blog or webpage and looking past the well-trodden CMS, Wix&amp;rsquo;es or Squarespaces of this world.</description>
+      <description>Websites usually do not have a &amp;lsquo;how it was built&amp;rsquo; page.
+But for this one, I felt compelled to have one. I would not have been able to build this without freely available tools, software and guidance. I am convinced that when taking stuff from a community, one should also use best efforts to contribute. Let this be my humble contribution.
+Hope it may provide some inspiration or help to other people considering building their own blog or webpage and looking past the well-trodden CMS, Wix&amp;rsquo;es or Squarespaces of this world.</description>
     </item>
+    
   </channel>
 </rss>

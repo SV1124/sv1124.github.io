@@ -7,14 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024 Steven Verschoot</copyright>
-    <lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://SV1124.github.io/tags/passporting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://SV1124.github.io/tags/passporting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Final report on technical guidelines cross-border AIFM/UCITCs notifications</title>
       <link>https://SV1124.github.io/posts/final-report-on-technical-guidelines-cross-border-aifm-notification/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://SV1124.github.io/posts/final-report-on-technical-guidelines-cross-border-aifm-notification/</guid>
-      <description>Right before Christmas, ESMA released its final report on draft technical standards on the notifications for cross-border marketing and cross-border management of AIFS and UCITS, after processing the responses it received on its consultation in this respect that closed on 9 September 2022.&#xA;The main changes made to the original standards are the following:&#xA;a requirement to provide a LEI was introduced; the information to be provided on delegation arrangements was toned down; and the information to be provided on marketing strategy was toned down.</description>
+      <description>Right before Christmas, ESMA released its final report on draft technical standards on the notifications for cross-border marketing and cross-border management of AIFS and UCITS, after processing the responses it received on its consultation in this respect that closed on 9 September 2022.
+The main changes made to the original standards are the following:
+a requirement to provide a LEI was introduced; the information to be provided on delegation arrangements was toned down; and the information to be provided on marketing strategy was toned down.</description>
     </item>
+    
   </channel>
 </rss>
