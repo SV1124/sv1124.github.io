@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Crypto Assets on Steven&#39;s Snippets</title>
-    <link>http://localhost:1313/tags/crypto-assets/</link>
+    <link>https://SV1124.github.io/tags/crypto-assets/</link>
     <description>Recent content in Crypto Assets on Steven&#39;s Snippets</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024 Steven Verschoot</copyright>
     <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/crypto-assets/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://SV1124.github.io/tags/crypto-assets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ESMA MiCA consultations on reverse solicitation and qualification of instruments: interesting reads</title>
-      <link>http://localhost:1313/posts/new-esma-consultation-on-reverse-solicit/</link>
+      <link>https://SV1124.github.io/posts/new-esma-consultation-on-reverse-solicit/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/new-esma-consultation-on-reverse-solicit/</guid>
+      <guid>https://SV1124.github.io/posts/new-esma-consultation-on-reverse-solicit/</guid>
       <description>&lt;p&gt;The new ESMA &lt;a href=&#34;https://www.esma.europa.eu/press-news/esma-news/esma-consults-reverse-solicitation-and-classification-crypto-assets-financial&#34;&gt;consultations on reverse solicitation in the context of MiCA and the qualification of instruments as financial instruments vs. crypto assets&lt;/a&gt; are interesting reads, even if only because they basically give a read-up on the status of reverse enquiry and definition(s) of mifid financial instruments in general (in particular on the concept of &amp;rsquo;transferable securities&amp;rsquo;).&lt;/p&gt;&#xA;&lt;p&gt;As indicated by people wiser than I am on LinkedIn, the core can be found in paragraph 8 of the consultation on qualification of instruments, i.e.&lt;/p&gt;</description>
     </item>
   </channel>

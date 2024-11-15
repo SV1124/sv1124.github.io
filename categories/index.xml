@@ -2,74 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steven&#39;s Snippets</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://SV1124.github.io/categories/</link>
     <description>Recent content on Steven&#39;s Snippets</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024 Steven Verschoot</copyright>
-    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://SV1124.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dutch</title>
+      <link>https://SV1124.github.io/categories/dutch/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/categories/dutch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Governance</title>
+      <link>https://SV1124.github.io/categories/governance/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/categories/governance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>https://SV1124.github.io/categories/history/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/categories/history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monastic Life</title>
+      <link>https://SV1124.github.io/categories/monastic-life/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/categories/monastic-life/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AIFMD II</title>
-      <link>http://localhost:1313/categories/aifmd-ii/</link>
+      <link>https://SV1124.github.io/categories/aifmd-ii/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/aifmd-ii/</guid>
+      <guid>https://SV1124.github.io/categories/aifmd-ii/</guid>
       <description></description>
     </item>
     <item>
       <title>Asset Management</title>
-      <link>http://localhost:1313/categories/asset-management/</link>
+      <link>https://SV1124.github.io/categories/asset-management/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/asset-management/</guid>
+      <guid>https://SV1124.github.io/categories/asset-management/</guid>
       <description></description>
     </item>
     <item>
       <title>Funds Law</title>
-      <link>http://localhost:1313/categories/funds-law/</link>
+      <link>https://SV1124.github.io/categories/funds-law/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/funds-law/</guid>
+      <guid>https://SV1124.github.io/categories/funds-law/</guid>
       <description></description>
     </item>
     <item>
       <title>Mifid Investment Firms</title>
-      <link>http://localhost:1313/categories/mifid-investment-firms/</link>
+      <link>https://SV1124.github.io/categories/mifid-investment-firms/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/mifid-investment-firms/</guid>
+      <guid>https://SV1124.github.io/categories/mifid-investment-firms/</guid>
       <description></description>
     </item>
     <item>
       <title>It</title>
-      <link>http://localhost:1313/categories/it/</link>
+      <link>https://SV1124.github.io/categories/it/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/it/</guid>
+      <guid>https://SV1124.github.io/categories/it/</guid>
       <description></description>
     </item>
     <item>
       <title>Personal</title>
-      <link>http://localhost:1313/categories/personal/</link>
+      <link>https://SV1124.github.io/categories/personal/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/personal/</guid>
+      <guid>https://SV1124.github.io/categories/personal/</guid>
       <description></description>
     </item>
     <item>
       <title>Crypto</title>
-      <link>http://localhost:1313/categories/crypto/</link>
+      <link>https://SV1124.github.io/categories/crypto/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/crypto/</guid>
+      <guid>https://SV1124.github.io/categories/crypto/</guid>
       <description></description>
     </item>
     <item>
       <title>Virtual Currencies</title>
-      <link>http://localhost:1313/categories/virtual-currencies/</link>
+      <link>https://SV1124.github.io/categories/virtual-currencies/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/virtual-currencies/</guid>
+      <guid>https://SV1124.github.io/categories/virtual-currencies/</guid>
       <description></description>
     </item>
     <item>
       <title>Insolvency</title>
-      <link>http://localhost:1313/categories/insolvency/</link>
+      <link>https://SV1124.github.io/categories/insolvency/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/insolvency/</guid>
+      <guid>https://SV1124.github.io/categories/insolvency/</guid>
       <description></description>
     </item>
   </channel>

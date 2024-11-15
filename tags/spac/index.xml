@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SPAC on Steven&#39;s Snippets</title>
-    <link>http://localhost:1313/tags/spac/</link>
+    <link>https://SV1124.github.io/tags/spac/</link>
     <description>Recent content in SPAC on Steven&#39;s Snippets</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024 Steven Verschoot</copyright>
     <lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/spac/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://SV1124.github.io/tags/spac/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SPACS and the AIFMD - ESMA keept it at &#39;might not be&#39;</title>
-      <link>http://localhost:1313/posts/spacs-and-the-aifmd---esma-keeps-it-at-might-not-be/</link>
+      <link>https://SV1124.github.io/posts/spacs-and-the-aifmd---esma-keeps-it-at-might-not-be/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/spacs-and-the-aifmd---esma-keeps-it-at-might-not-be/</guid>
+      <guid>https://SV1124.github.io/posts/spacs-and-the-aifmd---esma-keeps-it-at-might-not-be/</guid>
       <description>&lt;p&gt;On the very same day as Belgian &lt;a href=&#34;https://www.tijd.be/ondernemen/financiele-diensten-verzekeringen/cryptoplatform-bit4you-gooit-handdoek-in-jacht-op-beursnotering/10435090.html&#34;&gt;crypto exchange Bit4You cancelled its SPAC IPO&lt;/a&gt;, and only shortly after the &lt;a href=&#34;https://www.nytimes.com/2022/06/02/business/spacs-inflation-regulation.html&#34;&gt;New York Times declared ‘game over’ on SPACs&lt;/a&gt;, ESMA has addressed whether managers of SPACS are subject to the AIFMD in an update of &lt;a href=&#34;https://www.esma.europa.eu/sites/default/files/library/esma34-32-352_qa_aifmd.pdf&#34;&gt;its AIFMD Q&amp;amp;A&lt;/a&gt; .&lt;/p&gt;&#xA;&lt;p&gt;This question is relevant, as being subject to AIFMD would trigger a whole set of regulatory rules, including a license requirement, liquidity rules etc. Hence, managers generally prefer to keep their vehicles out of the scope of the AIFMD.&lt;/p&gt;</description>
     </item>
   </channel>

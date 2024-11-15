@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asset Management on Steven&#39;s Snippets</title>
-    <link>http://localhost:1313/categories/asset-management/</link>
+    <link>https://SV1124.github.io/categories/asset-management/</link>
     <description>Recent content in Asset Management on Steven&#39;s Snippets</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024 Steven Verschoot</copyright>
     <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/asset-management/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://SV1124.github.io/categories/asset-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New publication on ETS emissions in EU financial regulation</title>
-      <link>http://localhost:1313/posts/all-over-the-place-ets-emission-allowances/</link>
+      <link>https://SV1124.github.io/posts/all-over-the-place-ets-emission-allowances/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/all-over-the-place-ets-emission-allowances/</guid>
+      <guid>https://SV1124.github.io/posts/all-over-the-place-ets-emission-allowances/</guid>
       <description>&lt;p&gt;Last month I published an article in a peer reviewed journal: &lt;a href=&#34;https://www.trv.be/trv/text.aspx?l=NL&amp;amp;id=1491&#34;&gt;&amp;quot;&lt;strong&gt;All over the place: ETS emission allowances in EU financial regulaton&lt;/strong&gt;&amp;quot;,TRV-RPS 2024/1, 5-28.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the article, I provide a general overview of rules and obligations applicable to market participants that wish to hold or trade allowances - taking into account the recent updates of the Emissions Trading System.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;This overview demonstrates that the common thread of allowances-specific rules is a plethora of information and reporting requirements. These apply to various parties, at various times, by different standards and to different recipients (and with overlap in subject matters).&lt;/p&gt;</description>
     </item>
     <item>
       <title>New FSMA outsourcing guidelines for AIFMs, UCITS and asset managers/investment advisors - 10 key take-aways and 2 bis rounds</title>
-      <link>http://localhost:1313/posts/new-fsma-outsourcing-guidelines-for-aifm/</link>
+      <link>https://SV1124.github.io/posts/new-fsma-outsourcing-guidelines-for-aifm/</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/new-fsma-outsourcing-guidelines-for-aifm/</guid>
+      <guid>https://SV1124.github.io/posts/new-fsma-outsourcing-guidelines-for-aifm/</guid>
       <description>&lt;p&gt;AIFMs, UCITS managers and asset managers/investment advisors are allowed to delegate certain functions under the AIFMD and its implementing laws.*1 The Belgian regulator FSMA has recently issued &lt;a href=&#34;https://www.fsma.be/en/news/outsourcing-handbook&#34;&gt;detailed guidelines on outsourcing&lt;/a&gt;, aimed specifically at AIFMs, UCITS and asset managers/investment advisors (hereafter referred to as ‘Companies’*2) - amidst a more general increased scrutiny vis-à-vis outsourcing arrangements by regulated entities.&lt;/p&gt;&#xA;&lt;p&gt;Although not revolutionary, the guidelines provide significant extra body to applicable outsourcing requirements. They a.o. give further detail on the application of the proportionality principle to outsourcing and some general outsourcing principles (a.o. with regard to intra-group outsourcing). They also provide extensive guidance on the principles of sound management that must be taken into account when outsourcing. Consequently, existing outsourcing procedures and policies of (especially) licensed AIFMs, UCITs and asset managers/investment advisors might need a read-through.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sub-threshold AIFs: marketing and pre-marketing</title>
-      <link>http://localhost:1313/posts/sub-threshold-aifs--marketing-and-pre-ma/</link>
+      <link>https://SV1124.github.io/posts/sub-threshold-aifs--marketing-and-pre-ma/</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/sub-threshold-aifs--marketing-and-pre-ma/</guid>
+      <guid>https://SV1124.github.io/posts/sub-threshold-aifs--marketing-and-pre-ma/</guid>
       <description>&lt;p&gt;Over summer, ESMA updated its Q&amp;amp;A on the AIFM Directive (EU Directive 2011/61/EU) with some new questions (and more importantly, answers) - including with respect to pre-marketing in a context of sub-threshold managers (AIFMs).&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/em&gt; ESMA confirmed that sub-threshold managers are not subject to the obligation to notify pre-marketing (unless otherwise required by national rules). The flip-side is of course that national rules will apply and should be considered carefully if a sub-threshold manager intends to (pre-)market in a EU jurisdiction.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The new EC Retail Investment Package and its amendments to the AIFMD: focus on (un)due costs</title>
-      <link>http://localhost:1313/posts/the-new-ec-retail-investment-package-and/</link>
+      <link>https://SV1124.github.io/posts/the-new-ec-retail-investment-package-and/</link>
       <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-new-ec-retail-investment-package-and/</guid>
+      <guid>https://SV1124.github.io/posts/the-new-ec-retail-investment-package-and/</guid>
       <description>&lt;p&gt;It is nowhere near as sexy as the recently voted MiCA package, or as crucial for the future of our planet as the CSDDD, but the European Commission last week also came up with a ‘&lt;a href=&#34;https://ec.europa.eu/commission/presscorner/detail/en/ip_23_2868&#34;&gt;Retail Investment Package&lt;/a&gt;’ (the &amp;ldquo;&lt;strong&gt;Package&lt;/strong&gt;&amp;rdquo;) that is supposed to ‘empower retail investors’ and ‘make the EU an even safer place for people to invest their savings in the long term’ - which obviously are noble causes as well.[1]&lt;/p&gt;</description>
     </item>
     <item>
       <title>New ESMA Q&amp;A on sub-threshold AIFMS doesn&#39;t really clarify much.</title>
-      <link>http://localhost:1313/posts/new-esma-qa-on-sub-threshold-aifms-does/</link>
+      <link>https://SV1124.github.io/posts/new-esma-qa-on-sub-threshold-aifms-does/</link>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/new-esma-qa-on-sub-threshold-aifms-does/</guid>
+      <guid>https://SV1124.github.io/posts/new-esma-qa-on-sub-threshold-aifms-does/</guid>
       <description>&lt;p&gt;Under the Alternative Investment Fund Managers Directive (AIFMD) the sub-threshold regime is largely left to national authorities. This regime applies to AIFMs that manage portfolios of AIFs whose assets under management fall below certain thresholds - essentially carving them out from AIFMD. Given the large stakes (i.e. falling under AIFMD or not), the relevant thresholds (and in particular their calculation) are highly scrutinized in practice.&lt;/p&gt;&#xA;&lt;p&gt;This makes it the more interesting that ESMA today updated its &lt;a href=&#34;https://www.esma.europa.eu/sites/default/files/library/esma34-32-352_qa_aifmd.pdf&#34;&gt;Q&amp;amp;A on the AIFMD&lt;/a&gt; with a question on the calculation of these thresholds, and in particular the interpretation of “substantive direct or indirect holding” in Article 3(2) of the AIFMD. However, the usefulness of ESMA&amp;rsquo;s answer in practice can be debated - the main take-away of the answer seems to be that there is no quantitative threshold, and solely a qualitative one.&lt;/p&gt;</description>
     </item>
     <item>
       <title>10 noteworthy points on the EP ECON Committee AIFMD II final report.</title>
-      <link>http://localhost:1313/posts/noteworthy-points-aifmd-ii/</link>
+      <link>https://SV1124.github.io/posts/noteworthy-points-aifmd-ii/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/noteworthy-points-aifmd-ii/</guid>
+      <guid>https://SV1124.github.io/posts/noteworthy-points-aifmd-ii/</guid>
       <description>&lt;p&gt;On 24 January 2023, the EP’s Committee on Economic and Monetary Affairs (ECON) approved its amended draft (compromise) text of the amendments to the AIFMD and UCITSD (with 54 votes against 3, only the left-radical ‘The Left’ fraction voted against). The EP’s report (the &amp;ldquo;Final Report&amp;rdquo;) was published on 2 February 2023 and is available &lt;a href=&#34;https://www.europarl.europa.eu/doceo/document/A-9-2023-0020_EN.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The Final Report follows a November 2021 proposal of the &lt;a href=&#34;https://ec.europa.eu/transparency/documents-register/detail?ref=COM(2021)721&amp;amp;lang=en&#34;&gt;EC&lt;/a&gt;, an initial May 2022 draft report of the &lt;a href=&#34;https://www.europarl.europa.eu/doceo/document/ECON-PR-732549_EN.pdf&#34;&gt;EP ECON Committee&lt;/a&gt; (the “May Draft”) and a June 2022 ‘compromise text’ of the &lt;a href=&#34;https://data.consilium.europa.eu/doc/document/ST-9768-2022-REV-1/en/pdf&#34;&gt;Council&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ESMA review of national supervisory authorities&#39;​ positions on Brexit relocation of investment funds</title>
-      <link>http://localhost:1313/posts/final-report-on-technical-guidelines-cross-border-aifm-ucits-notifications/</link>
+      <link>https://SV1124.github.io/posts/final-report-on-technical-guidelines-cross-border-aifm-ucits-notifications/</link>
       <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/final-report-on-technical-guidelines-cross-border-aifm-ucits-notifications/</guid>
+      <guid>https://SV1124.github.io/posts/final-report-on-technical-guidelines-cross-border-aifm-ucits-notifications/</guid>
       <description>&lt;p&gt;In an assessment of the Brexit relocation processes (available on &lt;a href=&#34;https://www.esma.europa.eu/sites/default/files/library/esma42-111-7468_brexit_peer_review_report.pdf&#34;&gt;the website of ESMA&lt;/a&gt;), ESMA last December made some interesting observations on how different national authorities handle firms&amp;rsquo; relocation to the EU in the context of the UK’s withdrawal from the EU. The report focused on MiFID II investment firms, trading firm and fund managers.&lt;/p&gt;&#xA;&lt;h2 id=&#34;general-findings&#34;&gt;General findings&lt;/h2&gt;&#xA;&lt;p&gt;The key findings of the report with respect to all three categories were the following:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Final report on technical guidelines cross-border AIFM/UCITCs notifications</title>
-      <link>http://localhost:1313/posts/final-report-on-technical-guidelines-cross-border-aifm-notification/</link>
+      <link>https://SV1124.github.io/posts/final-report-on-technical-guidelines-cross-border-aifm-notification/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/final-report-on-technical-guidelines-cross-border-aifm-notification/</guid>
+      <guid>https://SV1124.github.io/posts/final-report-on-technical-guidelines-cross-border-aifm-notification/</guid>
       <description>&lt;p&gt;Right before Christmas, ESMA released its final report on &lt;a href=&#34;https://www.esma.europa.eu/sites/default/files/library/esma-34-45-1648_final_report_on_technical_standards_on_notification_letters.pdf&#34;&gt;draft technical standards on the notifications for cross-border marketing and cross-border management of AIFS and UCITS&lt;/a&gt;, after processing the responses it received on its &lt;a href=&#34;https://www.esma.europa.eu/sites/default/files/library/esma34-45-1471_cp_on_technical_standards_on_notification_letters.pdf&#34;&gt;consultation&lt;/a&gt; in this respect that closed on 9 September 2022.&lt;/p&gt;&#xA;&lt;p&gt;The main changes made to the original standards are the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;a requirement to provide a LEI was introduced;&lt;/li&gt;&#xA;&lt;li&gt;the information to be provided on delegation arrangements was toned down; and&lt;/li&gt;&#xA;&lt;li&gt;the information to be provided on marketing strategy was toned down.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Below, we will discuss this final report and the main changes over the draft report on which the ESMA consulted.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SPACS and the AIFMD - ESMA keept it at &#39;might not be&#39;</title>
-      <link>http://localhost:1313/posts/spacs-and-the-aifmd---esma-keeps-it-at-might-not-be/</link>
+      <link>https://SV1124.github.io/posts/spacs-and-the-aifmd---esma-keeps-it-at-might-not-be/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/spacs-and-the-aifmd---esma-keeps-it-at-might-not-be/</guid>
+      <guid>https://SV1124.github.io/posts/spacs-and-the-aifmd---esma-keeps-it-at-might-not-be/</guid>
       <description>&lt;p&gt;On the very same day as Belgian &lt;a href=&#34;https://www.tijd.be/ondernemen/financiele-diensten-verzekeringen/cryptoplatform-bit4you-gooit-handdoek-in-jacht-op-beursnotering/10435090.html&#34;&gt;crypto exchange Bit4You cancelled its SPAC IPO&lt;/a&gt;, and only shortly after the &lt;a href=&#34;https://www.nytimes.com/2022/06/02/business/spacs-inflation-regulation.html&#34;&gt;New York Times declared ‘game over’ on SPACs&lt;/a&gt;, ESMA has addressed whether managers of SPACS are subject to the AIFMD in an update of &lt;a href=&#34;https://www.esma.europa.eu/sites/default/files/library/esma34-32-352_qa_aifmd.pdf&#34;&gt;its AIFMD Q&amp;amp;A&lt;/a&gt; .&lt;/p&gt;&#xA;&lt;p&gt;This question is relevant, as being subject to AIFMD would trigger a whole set of regulatory rules, including a license requirement, liquidity rules etc. Hence, managers generally prefer to keep their vehicles out of the scope of the AIFMD.&lt;/p&gt;</description>
     </item>
   </channel>

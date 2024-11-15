@@ -2,241 +2,268 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://SV1124.github.io/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/categories/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/tags/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/tags/abbeys/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/tags/benedictine-monks/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/categories/dutch/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/tags/governance/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/categories/governance/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/posts/abdijen-monastiek/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/categories/history/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/categories/monastic-life/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/posts/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/tags/st.-benedict/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/tags/aifmd-ii/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://SV1124.github.io/categories/aifmd-ii/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://SV1124.github.io/tags/aml/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/aifmd-ii/</loc>
+    <loc>https://SV1124.github.io/tags/anti-money-laundering/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/aifmd-ii/</loc>
+    <loc>https://SV1124.github.io/categories/asset-management/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/aml/</loc>
+    <loc>https://SV1124.github.io/tags/emission-trading-system/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/anti-money-laundering/</loc>
+    <loc>https://SV1124.github.io/tags/ets-allowances/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/asset-management/</loc>
+    <loc>https://SV1124.github.io/categories/funds-law/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/emission-trading-system/</loc>
+    <loc>https://SV1124.github.io/tags/green-deal/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ets-allowances/</loc>
+    <loc>https://SV1124.github.io/tags/mar/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/funds-law/</loc>
+    <loc>https://SV1124.github.io/tags/mifid/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/green-deal/</loc>
+    <loc>https://SV1124.github.io/tags/mifid-ii/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mar/</loc>
+    <loc>https://SV1124.github.io/categories/mifid-investment-firms/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mifid/</loc>
+    <loc>https://SV1124.github.io/posts/all-over-the-place-ets-emission-allowances/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mifid-ii/</loc>
-    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/mifid-investment-firms/</loc>
-    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/all-over-the-place-ets-emission-allowances/</loc>
-    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/a-brief-faq-on-aifmd-ii/</loc>
+    <loc>https://SV1124.github.io/posts/a-brief-faq-on-aifmd-ii/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/aifm/</loc>
+    <loc>https://SV1124.github.io/tags/aifm/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/browser/</loc>
+    <loc>https://SV1124.github.io/tags/browser/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/chrome/</loc>
+    <loc>https://SV1124.github.io/tags/chrome/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/chromium/</loc>
+    <loc>https://SV1124.github.io/tags/chromium/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/delegation/</loc>
+    <loc>https://SV1124.github.io/tags/delegation/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/employee-participation-plan/</loc>
+    <loc>https://SV1124.github.io/tags/employee-participation-plan/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/firefox/</loc>
+    <loc>https://SV1124.github.io/tags/firefox/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/funds/</loc>
+    <loc>https://SV1124.github.io/tags/funds/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/it/</loc>
+    <loc>https://SV1124.github.io/categories/it/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/manifest-v3/</loc>
+    <loc>https://SV1124.github.io/tags/manifest-v3/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/open-source/</loc>
+    <loc>https://SV1124.github.io/tags/open-source/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/outsourcing/</loc>
+    <loc>https://SV1124.github.io/tags/outsourcing/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/personal/</loc>
+    <loc>https://SV1124.github.io/categories/personal/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/privacy/</loc>
+    <loc>https://SV1124.github.io/tags/privacy/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/private-equity/</loc>
+    <loc>https://SV1124.github.io/tags/private-equity/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/shareholder-loan/</loc>
+    <loc>https://SV1124.github.io/tags/shareholder-loan/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sub-threshold-aifms/</loc>
+    <loc>https://SV1124.github.io/tags/sub-threshold-aifms/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/why-i-switched-to-firefox/</loc>
+    <loc>https://SV1124.github.io/posts/why-i-switched-to-firefox/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/crypto/</loc>
+    <loc>https://SV1124.github.io/categories/crypto/</loc>
     <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/crypto-assets/</loc>
+    <loc>https://SV1124.github.io/tags/crypto-assets/</loc>
     <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/new-esma-consultation-on-reverse-solicit/</loc>
+    <loc>https://SV1124.github.io/posts/new-esma-consultation-on-reverse-solicit/</loc>
     <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/eu-law/</loc>
+    <loc>https://SV1124.github.io/tags/eu-law/</loc>
     <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/financial-instrument/</loc>
+    <loc>https://SV1124.github.io/tags/financial-instrument/</loc>
     <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mica/</loc>
+    <loc>https://SV1124.github.io/tags/mica/</loc>
     <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/transferable-security/</loc>
+    <loc>https://SV1124.github.io/tags/transferable-security/</loc>
     <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/going-live/</loc>
+    <loc>https://SV1124.github.io/posts/going-live/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/linkedin/</loc>
+    <loc>https://SV1124.github.io/tags/linkedin/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/minimal-computing/</loc>
+    <loc>https://SV1124.github.io/tags/minimal-computing/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/web-dev/</loc>
+    <loc>https://SV1124.github.io/tags/web-dev/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/github/</loc>
+    <loc>https://SV1124.github.io/tags/github/</loc>
     <lastmod>2023-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/how-this-website-was-built/</loc>
+    <loc>https://SV1124.github.io/posts/how-this-website-was-built/</loc>
     <lastmod>2023-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://SV1124.github.io/tags/hugo/</loc>
     <lastmod>2023-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ia-writer/</loc>
+    <loc>https://SV1124.github.io/tags/ia-writer/</loc>
     <lastmod>2023-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/belgian-law/</loc>
+    <loc>https://SV1124.github.io/tags/belgian-law/</loc>
     <lastmod>2023-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/new-fsma-outsourcing-guidelines-for-aifm/</loc>
+    <loc>https://SV1124.github.io/posts/new-fsma-outsourcing-guidelines-for-aifm/</loc>
     <lastmod>2023-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ucits/</loc>
+    <loc>https://SV1124.github.io/tags/ucits/</loc>
     <lastmod>2023-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/esma/</loc>
+    <loc>https://SV1124.github.io/tags/esma/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/marketing/</loc>
+    <loc>https://SV1124.github.io/tags/marketing/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sub-threshold-aifs--marketing-and-pre-ma/</loc>
+    <loc>https://SV1124.github.io/posts/sub-threshold-aifs--marketing-and-pre-ma/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/retail-package/</loc>
+    <loc>https://SV1124.github.io/tags/retail-package/</loc>
     <lastmod>2023-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/the-new-ec-retail-investment-package-and/</loc>
+    <loc>https://SV1124.github.io/posts/the-new-ec-retail-investment-package-and/</loc>
     <lastmod>2023-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/undue-costs/</loc>
+    <loc>https://SV1124.github.io/tags/undue-costs/</loc>
     <lastmod>2023-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/new-regulation-on-marketing-virtual-curr/</loc>
+    <loc>https://SV1124.github.io/posts/new-regulation-on-marketing-virtual-curr/</loc>
     <lastmod>2023-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/virtual-currencies/</loc>
+    <loc>https://SV1124.github.io/tags/virtual-currencies/</loc>
     <lastmod>2023-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/virtual-currencies/</loc>
+    <loc>https://SV1124.github.io/categories/virtual-currencies/</loc>
     <lastmod>2023-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/new-esma-qa-on-sub-threshold-aifms-does/</loc>
+    <loc>https://SV1124.github.io/posts/new-esma-qa-on-sub-threshold-aifms-does/</loc>
     <lastmod>2023-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/noteworthy-points-aifmd-ii/</loc>
+    <loc>https://SV1124.github.io/posts/noteworthy-points-aifmd-ii/</loc>
     <lastmod>2023-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/brexit/</loc>
+    <loc>https://SV1124.github.io/tags/brexit/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/final-report-on-technical-guidelines-cross-border-aifm-ucits-notifications/</loc>
+    <loc>https://SV1124.github.io/posts/final-report-on-technical-guidelines-cross-border-aifm-ucits-notifications/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/relocation/</loc>
+    <loc>https://SV1124.github.io/tags/relocation/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/final-report-on-technical-guidelines-cross-border-aifm-notification/</loc>
+    <loc>https://SV1124.github.io/posts/final-report-on-technical-guidelines-cross-border-aifm-notification/</loc>
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/passporting/</loc>
+    <loc>https://SV1124.github.io/tags/passporting/</loc>
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://SV1124.github.io/about/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/spac/</loc>
+    <loc>https://SV1124.github.io/tags/spac/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/spacs-and-the-aifmd---esma-keeps-it-at-might-not-be/</loc>
+    <loc>https://SV1124.github.io/posts/spacs-and-the-aifmd---esma-keeps-it-at-might-not-be/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ftx/</loc>
+    <loc>https://SV1124.github.io/tags/ftx/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/insolvency/</loc>
+    <loc>https://SV1124.github.io/categories/insolvency/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/some-remarks-on-esma-statement-on-ftx/</loc>
+    <loc>https://SV1124.github.io/posts/some-remarks-on-esma-statement-on-ftx/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://SV1124.github.io/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/privacypolicy/</loc>
+    <loc>https://SV1124.github.io/privacypolicy/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://SV1124.github.io/series/</loc>
   </url>
 </urlset>
