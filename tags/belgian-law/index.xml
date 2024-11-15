@@ -1,33 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Belgian law on Steven&#39;s Snippets</title>
-    <link>https://SV1124.github.io/tags/belgian-law/</link>
-    <description>Recent content in Belgian law on Steven&#39;s Snippets</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Belgian Law on Steven&#39;s Snippets</title>
+    <link>http://localhost:1313/tags/belgian-law/</link>
+    <description>Recent content in Belgian Law on Steven&#39;s Snippets</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024 Steven Verschoot</copyright>
-    <lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://SV1124.github.io/tags/belgian-law/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/belgian-law/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New FSMA outsourcing guidelines for AIFMs, UCITS and asset managers/investment advisors - 10 key take-aways and 2 bis rounds</title>
-      <link>https://SV1124.github.io/posts/new-fsma-outsourcing-guidelines-for-aifm/</link>
+      <link>http://localhost:1313/posts/new-fsma-outsourcing-guidelines-for-aifm/</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/new-fsma-outsourcing-guidelines-for-aifm/</guid>
-      <description>AIFMs, UCITS managers and asset managers/investment advisors are allowed to delegate certain functions under the AIFMD and its implementing laws.*1 The Belgian regulator FSMA has recently issued detailed guidelines on outsourcing, aimed specifically at AIFMs, UCITS and asset managers/investment advisors (hereafter referred to as ‘Companies’*2) - amidst a more general increased scrutiny vis-à-vis outsourcing arrangements by regulated entities.
-Although not revolutionary, the guidelines provide significant extra body to applicable outsourcing requirements.</description>
+      <guid>http://localhost:1313/posts/new-fsma-outsourcing-guidelines-for-aifm/</guid>
+      <description>&lt;p&gt;AIFMs, UCITS managers and asset managers/investment advisors are allowed to delegate certain functions under the AIFMD and its implementing laws.*1 The Belgian regulator FSMA has recently issued &lt;a href=&#34;https://www.fsma.be/en/news/outsourcing-handbook&#34;&gt;detailed guidelines on outsourcing&lt;/a&gt;, aimed specifically at AIFMs, UCITS and asset managers/investment advisors (hereafter referred to as ‘Companies’*2) - amidst a more general increased scrutiny vis-à-vis outsourcing arrangements by regulated entities.&lt;/p&gt;&#xA;&lt;p&gt;Although not revolutionary, the guidelines provide significant extra body to applicable outsourcing requirements. They a.o. give further detail on the application of the proportionality principle to outsourcing and some general outsourcing principles (a.o. with regard to intra-group outsourcing). They also provide extensive guidance on the principles of sound management that must be taken into account when outsourcing. Consequently, existing outsourcing procedures and policies of (especially) licensed AIFMs, UCITs and asset managers/investment advisors might need a read-through.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New regulation on marketing virtual currencies to Belgian consumers</title>
-      <link>https://SV1124.github.io/posts/new-regulation-on-marketing-virtual-curr/</link>
+      <link>http://localhost:1313/posts/new-regulation-on-marketing-virtual-curr/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/new-regulation-on-marketing-virtual-curr/</guid>
-      <description>Crypto-winter does not only seem to be consolidation time for companies involved. It also is for legislators. With MiCA(R) on its way, a new Belgian regulation on marketing virtual currencies to Belgian consumers was published in the Belgian Official Gazette this morning.[1]
-The regulation is based on three elements:
-compliance with minimum rules to ensure that the information in the advertisement is correct and not misleading; the mandatory inclusion of specific warnings in the advertisement; and the obligation to notify the FSMA in advance of mass campaigns.</description>
+      <guid>http://localhost:1313/posts/new-regulation-on-marketing-virtual-curr/</guid>
+      <description>&lt;p&gt;Crypto-winter does not only seem to be consolidation time for companies involved. It also is for legislators. With MiCA(R) on its way, &lt;a href=&#34;https://www.ejustice.just.fgov.be/cgi/article_body.pl?language=nl&amp;amp;caller=summary&amp;amp;pub_date=2023-03-17&amp;amp;numac=2023040640%0D%0A&#34;&gt;a new Belgian regulation on marketing virtual currencies to Belgian consumers was published in the Belgian Official Gazette this morning&lt;/a&gt;.[1]&lt;/p&gt;&#xA;&lt;p&gt;The regulation is based on three elements:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;compliance with minimum rules to ensure that the information in the advertisement is correct and not misleading;&lt;/li&gt;&#xA;&lt;li&gt;the mandatory inclusion of specific warnings in the advertisement; and&lt;/li&gt;&#xA;&lt;li&gt;the obligation to notify the FSMA in advance of mass campaigns.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;It also applies to influencers, and may even apply to so-called ‘shillers’ – so beware.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo on Steven&#39;s Snippets</title>
-    <link>https://SV1124.github.io/tags/hugo/</link>
-    <description>Recent content in hugo on Steven&#39;s Snippets</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Hugo on Steven&#39;s Snippets</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on Steven&#39;s Snippets</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024 Steven Verschoot</copyright>
-    <lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://SV1124.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How this website was built</title>
-      <link>https://SV1124.github.io/posts/how-this-website-was-built/</link>
+      <link>http://localhost:1313/posts/how-this-website-was-built/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/how-this-website-was-built/</guid>
-      <description>Websites usually do not have a &amp;lsquo;how it was built&amp;rsquo; page.
-But for this one, I felt compelled to have one. I would not have been able to build this without freely available tools, software and guidance. I am convinced that when taking stuff from a community, one should also use best efforts to contribute. Let this be my humble contribution.
-Hope it may provide some inspiration or help to other people considering building their own blog or webpage and looking past the well-trodden CMS, Wix&amp;rsquo;es or Squarespaces of this world.</description>
+      <guid>http://localhost:1313/posts/how-this-website-was-built/</guid>
+      <description>&lt;p&gt;Websites usually do not have a &amp;lsquo;how it was built&amp;rsquo; page.&lt;/p&gt;&#xA;&lt;p&gt;But for this one, I felt compelled to have one. I would not have been able to build this without freely available tools, software and guidance. I am convinced that when taking stuff from a community, one should also use best efforts to contribute. Let this be my humble contribution.&lt;/p&gt;&#xA;&lt;p&gt;Hope it may provide some inspiration or help to other people considering building their own blog or webpage and looking past the well-trodden CMS, Wix&amp;rsquo;es or Squarespaces of this world.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

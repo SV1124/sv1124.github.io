@@ -2,22 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MAR on Steven&#39;s Snippets</title>
-    <link>https://SV1124.github.io/tags/mar/</link>
+    <link>http://localhost:1313/tags/mar/</link>
     <description>Recent content in MAR on Steven&#39;s Snippets</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024 Steven Verschoot</copyright>
-    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://SV1124.github.io/tags/mar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New publication on ETS emissions in EU financial regulation</title>
-      <link>https://SV1124.github.io/posts/all-over-the-place-ets-emission-allowances/</link>
+      <link>http://localhost:1313/posts/all-over-the-place-ets-emission-allowances/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/all-over-the-place-ets-emission-allowances/</guid>
-      <description>Last month I published an article in a peer reviewed journal: &amp;quot;All over the place: ETS emission allowances in EU financial regulaton&amp;quot;,TRV-RPS 2024/1, 5-28.
-In the article, I provide a general overview of rules and obligations applicable to market participants that wish to hold or trade allowances - taking into account the recent updates of the Emissions Trading System.
-This overview demonstrates that the common thread of allowances-specific rules is a plethora of information and reporting requirements.</description>
+      <guid>http://localhost:1313/posts/all-over-the-place-ets-emission-allowances/</guid>
+      <description>&lt;p&gt;Last month I published an article in a peer reviewed journal: &lt;a href=&#34;https://www.trv.be/trv/text.aspx?l=NL&amp;amp;id=1491&#34;&gt;&amp;quot;&lt;strong&gt;All over the place: ETS emission allowances in EU financial regulaton&lt;/strong&gt;&amp;quot;,TRV-RPS 2024/1, 5-28.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the article, I provide a general overview of rules and obligations applicable to market participants that wish to hold or trade allowances - taking into account the recent updates of the Emissions Trading System.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;This overview demonstrates that the common thread of allowances-specific rules is a plethora of information and reporting requirements. These apply to various parties, at various times, by different standards and to different recipients (and with overlap in subject matters).&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

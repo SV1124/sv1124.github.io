@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>passporting on Steven&#39;s Snippets</title>
-    <link>https://SV1124.github.io/tags/passporting/</link>
-    <description>Recent content in passporting on Steven&#39;s Snippets</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Passporting on Steven&#39;s Snippets</title>
+    <link>http://localhost:1313/tags/passporting/</link>
+    <description>Recent content in Passporting on Steven&#39;s Snippets</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024 Steven Verschoot</copyright>
-    <lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://SV1124.github.io/tags/passporting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/passporting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Final report on technical guidelines cross-border AIFM/UCITCs notifications</title>
-      <link>https://SV1124.github.io/posts/final-report-on-technical-guidelines-cross-border-aifm-notification/</link>
+      <link>http://localhost:1313/posts/final-report-on-technical-guidelines-cross-border-aifm-notification/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/final-report-on-technical-guidelines-cross-border-aifm-notification/</guid>
-      <description>Right before Christmas, ESMA released its final report on draft technical standards on the notifications for cross-border marketing and cross-border management of AIFS and UCITS, after processing the responses it received on its consultation in this respect that closed on 9 September 2022.
-The main changes made to the original standards are the following:
-a requirement to provide a LEI was introduced; the information to be provided on delegation arrangements was toned down; and the information to be provided on marketing strategy was toned down.</description>
+      <guid>http://localhost:1313/posts/final-report-on-technical-guidelines-cross-border-aifm-notification/</guid>
+      <description>&lt;p&gt;Right before Christmas, ESMA released its final report on &lt;a href=&#34;https://www.esma.europa.eu/sites/default/files/library/esma-34-45-1648_final_report_on_technical_standards_on_notification_letters.pdf&#34;&gt;draft technical standards on the notifications for cross-border marketing and cross-border management of AIFS and UCITS&lt;/a&gt;, after processing the responses it received on its &lt;a href=&#34;https://www.esma.europa.eu/sites/default/files/library/esma34-45-1471_cp_on_technical_standards_on_notification_letters.pdf&#34;&gt;consultation&lt;/a&gt; in this respect that closed on 9 September 2022.&lt;/p&gt;&#xA;&lt;p&gt;The main changes made to the original standards are the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;a requirement to provide a LEI was introduced;&lt;/li&gt;&#xA;&lt;li&gt;the information to be provided on delegation arrangements was toned down; and&lt;/li&gt;&#xA;&lt;li&gt;the information to be provided on marketing strategy was toned down.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Below, we will discuss this final report and the main changes over the draft report on which the ESMA consulted.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

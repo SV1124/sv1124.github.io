@@ -2,21 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brexit on Steven&#39;s Snippets</title>
-    <link>https://SV1124.github.io/tags/brexit/</link>
+    <link>http://localhost:1313/tags/brexit/</link>
     <description>Recent content in Brexit on Steven&#39;s Snippets</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024 Steven Verschoot</copyright>
-    <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://SV1124.github.io/tags/brexit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/brexit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ESMA review of national supervisory authorities&#39;​ positions on Brexit relocation of investment funds</title>
-      <link>https://SV1124.github.io/posts/final-report-on-technical-guidelines-cross-border-aifm-ucits-notifications/</link>
+      <link>http://localhost:1313/posts/final-report-on-technical-guidelines-cross-border-aifm-ucits-notifications/</link>
       <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/final-report-on-technical-guidelines-cross-border-aifm-ucits-notifications/</guid>
-      <description>In an assessment of the Brexit relocation processes (available on the website of ESMA), ESMA last December made some interesting observations on how different national authorities handle firms&amp;rsquo; relocation to the EU in the context of the UK’s withdrawal from the EU. The report focused on MiFID II investment firms, trading firm and fund managers.
-General findings The key findings of the report with respect to all three categories were the following:</description>
+      <guid>http://localhost:1313/posts/final-report-on-technical-guidelines-cross-border-aifm-ucits-notifications/</guid>
+      <description>&lt;p&gt;In an assessment of the Brexit relocation processes (available on &lt;a href=&#34;https://www.esma.europa.eu/sites/default/files/library/esma42-111-7468_brexit_peer_review_report.pdf&#34;&gt;the website of ESMA&lt;/a&gt;), ESMA last December made some interesting observations on how different national authorities handle firms&amp;rsquo; relocation to the EU in the context of the UK’s withdrawal from the EU. The report focused on MiFID II investment firms, trading firm and fund managers.&lt;/p&gt;&#xA;&lt;h2 id=&#34;general-findings&#34;&gt;General findings&lt;/h2&gt;&#xA;&lt;p&gt;The key findings of the report with respect to all three categories were the following:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

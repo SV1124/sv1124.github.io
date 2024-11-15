@@ -2,42 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AIFMD II on Steven&#39;s Snippets</title>
-    <link>https://SV1124.github.io/tags/aifmd-ii/</link>
+    <link>http://localhost:1313/tags/aifmd-ii/</link>
     <description>Recent content in AIFMD II on Steven&#39;s Snippets</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024 Steven Verschoot</copyright>
-    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://SV1124.github.io/tags/aifmd-ii/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/aifmd-ii/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New publication on ETS emissions in EU financial regulation</title>
-      <link>https://SV1124.github.io/posts/all-over-the-place-ets-emission-allowances/</link>
+      <link>http://localhost:1313/posts/all-over-the-place-ets-emission-allowances/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/all-over-the-place-ets-emission-allowances/</guid>
-      <description>Last month I published an article in a peer reviewed journal: &amp;quot;All over the place: ETS emission allowances in EU financial regulaton&amp;quot;,TRV-RPS 2024/1, 5-28.
-In the article, I provide a general overview of rules and obligations applicable to market participants that wish to hold or trade allowances - taking into account the recent updates of the Emissions Trading System.
-This overview demonstrates that the common thread of allowances-specific rules is a plethora of information and reporting requirements.</description>
+      <guid>http://localhost:1313/posts/all-over-the-place-ets-emission-allowances/</guid>
+      <description>&lt;p&gt;Last month I published an article in a peer reviewed journal: &lt;a href=&#34;https://www.trv.be/trv/text.aspx?l=NL&amp;amp;id=1491&#34;&gt;&amp;quot;&lt;strong&gt;All over the place: ETS emission allowances in EU financial regulaton&lt;/strong&gt;&amp;quot;,TRV-RPS 2024/1, 5-28.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the article, I provide a general overview of rules and obligations applicable to market participants that wish to hold or trade allowances - taking into account the recent updates of the Emissions Trading System.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;This overview demonstrates that the common thread of allowances-specific rules is a plethora of information and reporting requirements. These apply to various parties, at various times, by different standards and to different recipients (and with overlap in subject matters).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A brief FAQ on AIFMD II</title>
-      <link>https://SV1124.github.io/posts/a-brief-faq-on-aifmd-ii/</link>
+      <link>http://localhost:1313/posts/a-brief-faq-on-aifmd-ii/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/a-brief-faq-on-aifmd-ii/</guid>
-      <description>The final texts of AIFMD II were (finally) made available on the website of the council last autumn. Although not yet published in the official gazette, these final texts settle some points raised earlier.1 Full reviews of the final texts (and earlier) iterations are available elsewhere2 and many law firms have already issued newsletters providing overviews of the changes.
-However, I found it useful to mold a short 5-question FAQ of some questions that came up most often in the run-up to AIFMD II.</description>
+      <guid>http://localhost:1313/posts/a-brief-faq-on-aifmd-ii/</guid>
+      <description>&lt;p&gt;The final texts of AIFMD II were (finally) made available &lt;a href=&#34;https://data.consilium.europa.eu/doc/document/ST-14932-2023-INIT/en/pdf&#34;&gt;on the website of the council&lt;/a&gt; last autumn. Although not yet published in the official gazette, these final texts settle some points raised earlier.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; Full reviews of the final texts (and earlier) iterations are available elsewhere&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; and many law firms have already issued newsletters providing overviews of the changes.&lt;/p&gt;&#xA;&lt;p&gt;However, I found it useful to mold a short 5-question FAQ of some questions that came up most often in the run-up to AIFMD II.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>10 noteworthy points on the EP ECON Committee AIFMD II final report.</title>
-      <link>https://SV1124.github.io/posts/noteworthy-points-aifmd-ii/</link>
+      <link>http://localhost:1313/posts/noteworthy-points-aifmd-ii/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/noteworthy-points-aifmd-ii/</guid>
-      <description>On 24 January 2023, the EP’s Committee on Economic and Monetary Affairs (ECON) approved its amended draft (compromise) text of the amendments to the AIFMD and UCITSD (with 54 votes against 3, only the left-radical ‘The Left’ fraction voted against). The EP’s report (the &amp;ldquo;Final Report&amp;rdquo;) was published on 2 February 2023 and is available here.
-The Final Report follows a November 2021 proposal of the EC, an initial May 2022 draft report of the EP ECON Committee (the “May Draft”) and a June 2022 ‘compromise text’ of the Council.</description>
+      <guid>http://localhost:1313/posts/noteworthy-points-aifmd-ii/</guid>
+      <description>&lt;p&gt;On 24 January 2023, the EP’s Committee on Economic and Monetary Affairs (ECON) approved its amended draft (compromise) text of the amendments to the AIFMD and UCITSD (with 54 votes against 3, only the left-radical ‘The Left’ fraction voted against). The EP’s report (the &amp;ldquo;Final Report&amp;rdquo;) was published on 2 February 2023 and is available &lt;a href=&#34;https://www.europarl.europa.eu/doceo/document/A-9-2023-0020_EN.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The Final Report follows a November 2021 proposal of the &lt;a href=&#34;https://ec.europa.eu/transparency/documents-register/detail?ref=COM(2021)721&amp;amp;lang=en&#34;&gt;EC&lt;/a&gt;, an initial May 2022 draft report of the &lt;a href=&#34;https://www.europarl.europa.eu/doceo/document/ECON-PR-732549_EN.pdf&#34;&gt;EP ECON Committee&lt;/a&gt; (the “May Draft”) and a June 2022 ‘compromise text’ of the &lt;a href=&#34;https://data.consilium.europa.eu/doc/document/ST-9768-2022-REV-1/en/pdf&#34;&gt;Council&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

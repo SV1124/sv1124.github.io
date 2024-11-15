@@ -1,101 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>EU law on Steven&#39;s Snippets</title>
-    <link>https://SV1124.github.io/tags/eu-law/</link>
-    <description>Recent content in EU law on Steven&#39;s Snippets</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>EU Law on Steven&#39;s Snippets</title>
+    <link>http://localhost:1313/tags/eu-law/</link>
+    <description>Recent content in EU Law on Steven&#39;s Snippets</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024 Steven Verschoot</copyright>
-    <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://SV1124.github.io/tags/eu-law/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/eu-law/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ESMA MiCA consultations on reverse solicitation and qualification of instruments: interesting reads</title>
-      <link>https://SV1124.github.io/posts/new-esma-consultation-on-reverse-solicit/</link>
+      <link>http://localhost:1313/posts/new-esma-consultation-on-reverse-solicit/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/new-esma-consultation-on-reverse-solicit/</guid>
-      <description>The new ESMA consultations on reverse solicitation in the context of MiCA and the qualification of instruments as financial instruments vs. crypto assets are interesting reads, even if only because they basically give a read-up on the status of reverse enquiry and definition(s) of mifid financial instruments in general (in particular on the concept of &amp;rsquo;transferable securities&amp;rsquo;).
-As indicated by people wiser than I am on LinkedIn, the core can be found in paragraph 8 of the consultation on qualification of instruments, i.</description>
+      <guid>http://localhost:1313/posts/new-esma-consultation-on-reverse-solicit/</guid>
+      <description>&lt;p&gt;The new ESMA &lt;a href=&#34;https://www.esma.europa.eu/press-news/esma-news/esma-consults-reverse-solicitation-and-classification-crypto-assets-financial&#34;&gt;consultations on reverse solicitation in the context of MiCA and the qualification of instruments as financial instruments vs. crypto assets&lt;/a&gt; are interesting reads, even if only because they basically give a read-up on the status of reverse enquiry and definition(s) of mifid financial instruments in general (in particular on the concept of &amp;rsquo;transferable securities&amp;rsquo;).&lt;/p&gt;&#xA;&lt;p&gt;As indicated by people wiser than I am on LinkedIn, the core can be found in paragraph 8 of the consultation on qualification of instruments, i.e.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sub-threshold AIFs: marketing and pre-marketing</title>
-      <link>https://SV1124.github.io/posts/sub-threshold-aifs-marketing-and-pre-ma/</link>
+      <link>http://localhost:1313/posts/sub-threshold-aifs--marketing-and-pre-ma/</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/sub-threshold-aifs-marketing-and-pre-ma/</guid>
-      <description>Over summer, ESMA updated its Q&amp;amp;A on the AIFM Directive (EU Directive 2011/61/EU) with some new questions (and more importantly, answers) - including with respect to pre-marketing in a context of sub-threshold managers (AIFMs).
-Summary: ESMA confirmed that sub-threshold managers are not subject to the obligation to notify pre-marketing (unless otherwise required by national rules). The flip-side is of course that national rules will apply and should be considered carefully if a sub-threshold manager intends to (pre-)market in a EU jurisdiction.</description>
+      <guid>http://localhost:1313/posts/sub-threshold-aifs--marketing-and-pre-ma/</guid>
+      <description>&lt;p&gt;Over summer, ESMA updated its Q&amp;amp;A on the AIFM Directive (EU Directive 2011/61/EU) with some new questions (and more importantly, answers) - including with respect to pre-marketing in a context of sub-threshold managers (AIFMs).&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/em&gt; ESMA confirmed that sub-threshold managers are not subject to the obligation to notify pre-marketing (unless otherwise required by national rules). The flip-side is of course that national rules will apply and should be considered carefully if a sub-threshold manager intends to (pre-)market in a EU jurisdiction.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The new EC Retail Investment Package and its amendments to the AIFMD: focus on (un)due costs</title>
-      <link>https://SV1124.github.io/posts/the-new-ec-retail-investment-package-and/</link>
+      <link>http://localhost:1313/posts/the-new-ec-retail-investment-package-and/</link>
       <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/the-new-ec-retail-investment-package-and/</guid>
-      <description>It is nowhere near as sexy as the recently voted MiCA package, or as crucial for the future of our planet as the CSDDD, but the European Commission last week also came up with a ‘Retail Investment Package’ (the &amp;ldquo;Package&amp;rdquo;) that is supposed to ‘empower retail investors’ and ‘make the EU an even safer place for people to invest their savings in the long term’ - which obviously are noble causes as well.</description>
+      <guid>http://localhost:1313/posts/the-new-ec-retail-investment-package-and/</guid>
+      <description>&lt;p&gt;It is nowhere near as sexy as the recently voted MiCA package, or as crucial for the future of our planet as the CSDDD, but the European Commission last week also came up with a ‘&lt;a href=&#34;https://ec.europa.eu/commission/presscorner/detail/en/ip_23_2868&#34;&gt;Retail Investment Package&lt;/a&gt;’ (the &amp;ldquo;&lt;strong&gt;Package&lt;/strong&gt;&amp;rdquo;) that is supposed to ‘empower retail investors’ and ‘make the EU an even safer place for people to invest their savings in the long term’ - which obviously are noble causes as well.[1]&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New ESMA Q&amp;A on sub-threshold AIFMS doesn&#39;t really clarify much.</title>
-      <link>https://SV1124.github.io/posts/new-esma-qa-on-sub-threshold-aifms-does/</link>
+      <link>http://localhost:1313/posts/new-esma-qa-on-sub-threshold-aifms-does/</link>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/new-esma-qa-on-sub-threshold-aifms-does/</guid>
-      <description>Under the Alternative Investment Fund Managers Directive (AIFMD) the sub-threshold regime is largely left to national authorities. This regime applies to AIFMs that manage portfolios of AIFs whose assets under management fall below certain thresholds - essentially carving them out from AIFMD. Given the large stakes (i.e. falling under AIFMD or not), the relevant thresholds (and in particular their calculation) are highly scrutinized in practice.
-This makes it the more interesting that ESMA today updated its Q&amp;amp;A on the AIFMD with a question on the calculation of these thresholds, and in particular the interpretation of “substantive direct or indirect holding” in Article 3(2) of the AIFMD.</description>
+      <guid>http://localhost:1313/posts/new-esma-qa-on-sub-threshold-aifms-does/</guid>
+      <description>&lt;p&gt;Under the Alternative Investment Fund Managers Directive (AIFMD) the sub-threshold regime is largely left to national authorities. This regime applies to AIFMs that manage portfolios of AIFs whose assets under management fall below certain thresholds - essentially carving them out from AIFMD. Given the large stakes (i.e. falling under AIFMD or not), the relevant thresholds (and in particular their calculation) are highly scrutinized in practice.&lt;/p&gt;&#xA;&lt;p&gt;This makes it the more interesting that ESMA today updated its &lt;a href=&#34;https://www.esma.europa.eu/sites/default/files/library/esma34-32-352_qa_aifmd.pdf&#34;&gt;Q&amp;amp;A on the AIFMD&lt;/a&gt; with a question on the calculation of these thresholds, and in particular the interpretation of “substantive direct or indirect holding” in Article 3(2) of the AIFMD. However, the usefulness of ESMA&amp;rsquo;s answer in practice can be debated - the main take-away of the answer seems to be that there is no quantitative threshold, and solely a qualitative one.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>10 noteworthy points on the EP ECON Committee AIFMD II final report.</title>
-      <link>https://SV1124.github.io/posts/noteworthy-points-aifmd-ii/</link>
+      <link>http://localhost:1313/posts/noteworthy-points-aifmd-ii/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/noteworthy-points-aifmd-ii/</guid>
-      <description>On 24 January 2023, the EP’s Committee on Economic and Monetary Affairs (ECON) approved its amended draft (compromise) text of the amendments to the AIFMD and UCITSD (with 54 votes against 3, only the left-radical ‘The Left’ fraction voted against). The EP’s report (the &amp;ldquo;Final Report&amp;rdquo;) was published on 2 February 2023 and is available here.
-The Final Report follows a November 2021 proposal of the EC, an initial May 2022 draft report of the EP ECON Committee (the “May Draft”) and a June 2022 ‘compromise text’ of the Council.</description>
+      <guid>http://localhost:1313/posts/noteworthy-points-aifmd-ii/</guid>
+      <description>&lt;p&gt;On 24 January 2023, the EP’s Committee on Economic and Monetary Affairs (ECON) approved its amended draft (compromise) text of the amendments to the AIFMD and UCITSD (with 54 votes against 3, only the left-radical ‘The Left’ fraction voted against). The EP’s report (the &amp;ldquo;Final Report&amp;rdquo;) was published on 2 February 2023 and is available &lt;a href=&#34;https://www.europarl.europa.eu/doceo/document/A-9-2023-0020_EN.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The Final Report follows a November 2021 proposal of the &lt;a href=&#34;https://ec.europa.eu/transparency/documents-register/detail?ref=COM(2021)721&amp;amp;lang=en&#34;&gt;EC&lt;/a&gt;, an initial May 2022 draft report of the &lt;a href=&#34;https://www.europarl.europa.eu/doceo/document/ECON-PR-732549_EN.pdf&#34;&gt;EP ECON Committee&lt;/a&gt; (the “May Draft”) and a June 2022 ‘compromise text’ of the &lt;a href=&#34;https://data.consilium.europa.eu/doc/document/ST-9768-2022-REV-1/en/pdf&#34;&gt;Council&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>ESMA review of national supervisory authorities&#39;​ positions on Brexit relocation of investment funds</title>
-      <link>https://SV1124.github.io/posts/final-report-on-technical-guidelines-cross-border-aifm-ucits-notifications/</link>
+      <link>http://localhost:1313/posts/final-report-on-technical-guidelines-cross-border-aifm-ucits-notifications/</link>
       <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/final-report-on-technical-guidelines-cross-border-aifm-ucits-notifications/</guid>
-      <description>In an assessment of the Brexit relocation processes (available on the website of ESMA), ESMA last December made some interesting observations on how different national authorities handle firms&amp;rsquo; relocation to the EU in the context of the UK’s withdrawal from the EU. The report focused on MiFID II investment firms, trading firm and fund managers.
-General findings The key findings of the report with respect to all three categories were the following:</description>
+      <guid>http://localhost:1313/posts/final-report-on-technical-guidelines-cross-border-aifm-ucits-notifications/</guid>
+      <description>&lt;p&gt;In an assessment of the Brexit relocation processes (available on &lt;a href=&#34;https://www.esma.europa.eu/sites/default/files/library/esma42-111-7468_brexit_peer_review_report.pdf&#34;&gt;the website of ESMA&lt;/a&gt;), ESMA last December made some interesting observations on how different national authorities handle firms&amp;rsquo; relocation to the EU in the context of the UK’s withdrawal from the EU. The report focused on MiFID II investment firms, trading firm and fund managers.&lt;/p&gt;&#xA;&lt;h2 id=&#34;general-findings&#34;&gt;General findings&lt;/h2&gt;&#xA;&lt;p&gt;The key findings of the report with respect to all three categories were the following:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Final report on technical guidelines cross-border AIFM/UCITCs notifications</title>
-      <link>https://SV1124.github.io/posts/final-report-on-technical-guidelines-cross-border-aifm-notification/</link>
+      <link>http://localhost:1313/posts/final-report-on-technical-guidelines-cross-border-aifm-notification/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/final-report-on-technical-guidelines-cross-border-aifm-notification/</guid>
-      <description>Right before Christmas, ESMA released its final report on draft technical standards on the notifications for cross-border marketing and cross-border management of AIFS and UCITS, after processing the responses it received on its consultation in this respect that closed on 9 September 2022.
-The main changes made to the original standards are the following:
-a requirement to provide a LEI was introduced; the information to be provided on delegation arrangements was toned down; and the information to be provided on marketing strategy was toned down.</description>
+      <guid>http://localhost:1313/posts/final-report-on-technical-guidelines-cross-border-aifm-notification/</guid>
+      <description>&lt;p&gt;Right before Christmas, ESMA released its final report on &lt;a href=&#34;https://www.esma.europa.eu/sites/default/files/library/esma-34-45-1648_final_report_on_technical_standards_on_notification_letters.pdf&#34;&gt;draft technical standards on the notifications for cross-border marketing and cross-border management of AIFS and UCITS&lt;/a&gt;, after processing the responses it received on its &lt;a href=&#34;https://www.esma.europa.eu/sites/default/files/library/esma34-45-1471_cp_on_technical_standards_on_notification_letters.pdf&#34;&gt;consultation&lt;/a&gt; in this respect that closed on 9 September 2022.&lt;/p&gt;&#xA;&lt;p&gt;The main changes made to the original standards are the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;a requirement to provide a LEI was introduced;&lt;/li&gt;&#xA;&lt;li&gt;the information to be provided on delegation arrangements was toned down; and&lt;/li&gt;&#xA;&lt;li&gt;the information to be provided on marketing strategy was toned down.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Below, we will discuss this final report and the main changes over the draft report on which the ESMA consulted.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>SPACS and the AIFMD - ESMA keept it at &#39;might not be&#39;</title>
-      <link>https://SV1124.github.io/posts/spacs-and-the-aifmd-esma-keeps-it-at-might-not-be/</link>
+      <link>http://localhost:1313/posts/spacs-and-the-aifmd---esma-keeps-it-at-might-not-be/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/spacs-and-the-aifmd-esma-keeps-it-at-might-not-be/</guid>
-      <description>On the very same day as Belgian crypto exchange Bit4You cancelled its SPAC IPO, and only shortly after the New York Times declared ‘game over’ on SPACs, ESMA has addressed whether managers of SPACS are subject to the AIFMD in an update of its AIFMD Q&amp;amp;A .
-This question is relevant, as being subject to AIFMD would trigger a whole set of regulatory rules, including a license requirement, liquidity rules etc.</description>
+      <guid>http://localhost:1313/posts/spacs-and-the-aifmd---esma-keeps-it-at-might-not-be/</guid>
+      <description>&lt;p&gt;On the very same day as Belgian &lt;a href=&#34;https://www.tijd.be/ondernemen/financiele-diensten-verzekeringen/cryptoplatform-bit4you-gooit-handdoek-in-jacht-op-beursnotering/10435090.html&#34;&gt;crypto exchange Bit4You cancelled its SPAC IPO&lt;/a&gt;, and only shortly after the &lt;a href=&#34;https://www.nytimes.com/2022/06/02/business/spacs-inflation-regulation.html&#34;&gt;New York Times declared ‘game over’ on SPACs&lt;/a&gt;, ESMA has addressed whether managers of SPACS are subject to the AIFMD in an update of &lt;a href=&#34;https://www.esma.europa.eu/sites/default/files/library/esma34-32-352_qa_aifmd.pdf&#34;&gt;its AIFMD Q&amp;amp;A&lt;/a&gt; .&lt;/p&gt;&#xA;&lt;p&gt;This question is relevant, as being subject to AIFMD would trigger a whole set of regulatory rules, including a license requirement, liquidity rules etc. Hence, managers generally prefer to keep their vehicles out of the scope of the AIFMD.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Some remarks on ESMA&#39;s statement on FTX</title>
-      <link>https://SV1124.github.io/posts/some-remarks-on-esma-statement-on-ftx/</link>
+      <link>http://localhost:1313/posts/some-remarks-on-esma-statement-on-ftx/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/some-remarks-on-esma-statement-on-ftx/</guid>
-      <description>Yesterday, the ESMA provided its perspective on the collapse of FTX (through the opening statement of the Economic and Monetary Affairs Committee of the European Parliament available here). For sure, this is is not the latest we have heard from EU and other regulators on crypto (see ao here), nor the most elaborate discussion, but it does definitely give some pointers on how the EU and its member states might approach crypto winter and the termoil that goes with it.</description>
+      <guid>http://localhost:1313/posts/some-remarks-on-esma-statement-on-ftx/</guid>
+      <description>&lt;p&gt;Yesterday, the ESMA provided its perspective on the collapse of FTX (through the opening statement of the Economic and Monetary Affairs Committee of the European Parliament available &lt;a href=&#34;https://www.esma.europa.eu/file/125647/download?token=9fmK2aEu&#34;&gt;here&lt;/a&gt;). For sure, this is is not the latest we have heard from EU and other regulators on crypto (see ao &lt;a href=&#34;https://www.ft.com/content/c3e58d27-0a77-479f-bf52-b492efebc72f&#34;&gt;here&lt;/a&gt;), nor the most elaborate discussion, but it does definitely give some pointers on how the EU and its member states might approach crypto winter and the termoil that goes with it.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

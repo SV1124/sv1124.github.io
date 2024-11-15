@@ -1,43 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mifid investment firms on Steven&#39;s Snippets</title>
-    <link>https://SV1124.github.io/categories/mifid-investment-firms/</link>
-    <description>Recent content in Mifid investment firms on Steven&#39;s Snippets</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Mifid Investment Firms on Steven&#39;s Snippets</title>
+    <link>http://localhost:1313/categories/mifid-investment-firms/</link>
+    <description>Recent content in Mifid Investment Firms on Steven&#39;s Snippets</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024 Steven Verschoot</copyright>
-    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://SV1124.github.io/categories/mifid-investment-firms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/mifid-investment-firms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New publication on ETS emissions in EU financial regulation</title>
-      <link>https://SV1124.github.io/posts/all-over-the-place-ets-emission-allowances/</link>
+      <link>http://localhost:1313/posts/all-over-the-place-ets-emission-allowances/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/all-over-the-place-ets-emission-allowances/</guid>
-      <description>Last month I published an article in a peer reviewed journal: &amp;quot;All over the place: ETS emission allowances in EU financial regulaton&amp;quot;,TRV-RPS 2024/1, 5-28.
-In the article, I provide a general overview of rules and obligations applicable to market participants that wish to hold or trade allowances - taking into account the recent updates of the Emissions Trading System.
-This overview demonstrates that the common thread of allowances-specific rules is a plethora of information and reporting requirements.</description>
+      <guid>http://localhost:1313/posts/all-over-the-place-ets-emission-allowances/</guid>
+      <description>&lt;p&gt;Last month I published an article in a peer reviewed journal: &lt;a href=&#34;https://www.trv.be/trv/text.aspx?l=NL&amp;amp;id=1491&#34;&gt;&amp;quot;&lt;strong&gt;All over the place: ETS emission allowances in EU financial regulaton&lt;/strong&gt;&amp;quot;,TRV-RPS 2024/1, 5-28.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the article, I provide a general overview of rules and obligations applicable to market participants that wish to hold or trade allowances - taking into account the recent updates of the Emissions Trading System.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;This overview demonstrates that the common thread of allowances-specific rules is a plethora of information and reporting requirements. These apply to various parties, at various times, by different standards and to different recipients (and with overlap in subject matters).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>ESMA MiCA consultations on reverse solicitation and qualification of instruments: interesting reads</title>
-      <link>https://SV1124.github.io/posts/new-esma-consultation-on-reverse-solicit/</link>
+      <link>http://localhost:1313/posts/new-esma-consultation-on-reverse-solicit/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/new-esma-consultation-on-reverse-solicit/</guid>
-      <description>The new ESMA consultations on reverse solicitation in the context of MiCA and the qualification of instruments as financial instruments vs. crypto assets are interesting reads, even if only because they basically give a read-up on the status of reverse enquiry and definition(s) of mifid financial instruments in general (in particular on the concept of &amp;rsquo;transferable securities&amp;rsquo;).
-As indicated by people wiser than I am on LinkedIn, the core can be found in paragraph 8 of the consultation on qualification of instruments, i.</description>
+      <guid>http://localhost:1313/posts/new-esma-consultation-on-reverse-solicit/</guid>
+      <description>&lt;p&gt;The new ESMA &lt;a href=&#34;https://www.esma.europa.eu/press-news/esma-news/esma-consults-reverse-solicitation-and-classification-crypto-assets-financial&#34;&gt;consultations on reverse solicitation in the context of MiCA and the qualification of instruments as financial instruments vs. crypto assets&lt;/a&gt; are interesting reads, even if only because they basically give a read-up on the status of reverse enquiry and definition(s) of mifid financial instruments in general (in particular on the concept of &amp;rsquo;transferable securities&amp;rsquo;).&lt;/p&gt;&#xA;&lt;p&gt;As indicated by people wiser than I am on LinkedIn, the core can be found in paragraph 8 of the consultation on qualification of instruments, i.e.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>ESMA review of national supervisory authorities&#39;​ positions on Brexit relocation of investment funds</title>
-      <link>https://SV1124.github.io/posts/final-report-on-technical-guidelines-cross-border-aifm-ucits-notifications/</link>
+      <link>http://localhost:1313/posts/final-report-on-technical-guidelines-cross-border-aifm-ucits-notifications/</link>
       <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/final-report-on-technical-guidelines-cross-border-aifm-ucits-notifications/</guid>
-      <description>In an assessment of the Brexit relocation processes (available on the website of ESMA), ESMA last December made some interesting observations on how different national authorities handle firms&amp;rsquo; relocation to the EU in the context of the UK’s withdrawal from the EU. The report focused on MiFID II investment firms, trading firm and fund managers.
-General findings The key findings of the report with respect to all three categories were the following:</description>
+      <guid>http://localhost:1313/posts/final-report-on-technical-guidelines-cross-border-aifm-ucits-notifications/</guid>
+      <description>&lt;p&gt;In an assessment of the Brexit relocation processes (available on &lt;a href=&#34;https://www.esma.europa.eu/sites/default/files/library/esma42-111-7468_brexit_peer_review_report.pdf&#34;&gt;the website of ESMA&lt;/a&gt;), ESMA last December made some interesting observations on how different national authorities handle firms&amp;rsquo; relocation to the EU in the context of the UK’s withdrawal from the EU. The report focused on MiFID II investment firms, trading firm and fund managers.&lt;/p&gt;&#xA;&lt;h2 id=&#34;general-findings&#34;&gt;General findings&lt;/h2&gt;&#xA;&lt;p&gt;The key findings of the report with respect to all three categories were the following:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

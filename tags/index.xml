@@ -2,434 +2,341 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steven&#39;s Snippets</title>
-    <link>https://SV1124.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content on Steven&#39;s Snippets</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024 Steven Verschoot</copyright>
-    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://SV1124.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AIFMD II</title>
-      <link>https://SV1124.github.io/tags/aifmd-ii/</link>
+      <link>http://localhost:1313/tags/aifmd-ii/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/aifmd-ii/</guid>
+      <guid>http://localhost:1313/tags/aifmd-ii/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>AML</title>
-      <link>https://SV1124.github.io/tags/aml/</link>
+      <link>http://localhost:1313/tags/aml/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/aml/</guid>
+      <guid>http://localhost:1313/tags/aml/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Anti Money Laundering</title>
-      <link>https://SV1124.github.io/tags/anti-money-laundering/</link>
+      <link>http://localhost:1313/tags/anti-money-laundering/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/anti-money-laundering/</guid>
+      <guid>http://localhost:1313/tags/anti-money-laundering/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Emission Trading System</title>
-      <link>https://SV1124.github.io/tags/emission-trading-system/</link>
+      <link>http://localhost:1313/tags/emission-trading-system/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/emission-trading-system/</guid>
+      <guid>http://localhost:1313/tags/emission-trading-system/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ETS Allowances</title>
-      <link>https://SV1124.github.io/tags/ets-allowances/</link>
+      <link>http://localhost:1313/tags/ets-allowances/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/ets-allowances/</guid>
+      <guid>http://localhost:1313/tags/ets-allowances/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Green deal</title>
-      <link>https://SV1124.github.io/tags/green-deal/</link>
+      <title>Green Deal</title>
+      <link>http://localhost:1313/tags/green-deal/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/green-deal/</guid>
+      <guid>http://localhost:1313/tags/green-deal/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MAR</title>
-      <link>https://SV1124.github.io/tags/mar/</link>
+      <link>http://localhost:1313/tags/mar/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/mar/</guid>
+      <guid>http://localhost:1313/tags/mar/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>MiFID</title>
-      <link>https://SV1124.github.io/tags/mifid/</link>
+      <title>Mifid</title>
+      <link>http://localhost:1313/tags/mifid/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/mifid/</guid>
+      <guid>http://localhost:1313/tags/mifid/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MiFID II</title>
-      <link>https://SV1124.github.io/tags/mifid-ii/</link>
+      <link>http://localhost:1313/tags/mifid-ii/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/mifid-ii/</guid>
+      <guid>http://localhost:1313/tags/mifid-ii/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>AIFM</title>
-      <link>https://SV1124.github.io/tags/aifm/</link>
+      <link>http://localhost:1313/tags/aifm/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/aifm/</guid>
+      <guid>http://localhost:1313/tags/aifm/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Browser</title>
-      <link>https://SV1124.github.io/tags/browser/</link>
+      <link>http://localhost:1313/tags/browser/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/browser/</guid>
+      <guid>http://localhost:1313/tags/browser/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Chrome</title>
-      <link>https://SV1124.github.io/tags/chrome/</link>
+      <link>http://localhost:1313/tags/chrome/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/chrome/</guid>
+      <guid>http://localhost:1313/tags/chrome/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Chromium</title>
-      <link>https://SV1124.github.io/tags/chromium/</link>
+      <link>http://localhost:1313/tags/chromium/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/chromium/</guid>
+      <guid>http://localhost:1313/tags/chromium/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Delegation</title>
-      <link>https://SV1124.github.io/tags/delegation/</link>
+      <link>http://localhost:1313/tags/delegation/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/delegation/</guid>
+      <guid>http://localhost:1313/tags/delegation/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Employee participation plan</title>
-      <link>https://SV1124.github.io/tags/employee-participation-plan/</link>
+      <title>Employee Participation Plan</title>
+      <link>http://localhost:1313/tags/employee-participation-plan/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/employee-participation-plan/</guid>
+      <guid>http://localhost:1313/tags/employee-participation-plan/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Firefox</title>
-      <link>https://SV1124.github.io/tags/firefox/</link>
+      <link>http://localhost:1313/tags/firefox/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/firefox/</guid>
+      <guid>http://localhost:1313/tags/firefox/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Funds</title>
-      <link>https://SV1124.github.io/tags/funds/</link>
+      <link>http://localhost:1313/tags/funds/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/funds/</guid>
+      <guid>http://localhost:1313/tags/funds/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Manifest V3</title>
-      <link>https://SV1124.github.io/tags/manifest-v3/</link>
+      <link>http://localhost:1313/tags/manifest-v3/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/manifest-v3/</guid>
+      <guid>http://localhost:1313/tags/manifest-v3/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Open source</title>
-      <link>https://SV1124.github.io/tags/open-source/</link>
+      <title>Open Source</title>
+      <link>http://localhost:1313/tags/open-source/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/open-source/</guid>
+      <guid>http://localhost:1313/tags/open-source/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Outsourcing</title>
-      <link>https://SV1124.github.io/tags/outsourcing/</link>
+      <link>http://localhost:1313/tags/outsourcing/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/outsourcing/</guid>
+      <guid>http://localhost:1313/tags/outsourcing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Privacy</title>
-      <link>https://SV1124.github.io/tags/privacy/</link>
+      <link>http://localhost:1313/tags/privacy/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/privacy/</guid>
+      <guid>http://localhost:1313/tags/privacy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Private Equity</title>
-      <link>https://SV1124.github.io/tags/private-equity/</link>
+      <link>http://localhost:1313/tags/private-equity/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/private-equity/</guid>
+      <guid>http://localhost:1313/tags/private-equity/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Shareholder loan</title>
-      <link>https://SV1124.github.io/tags/shareholder-loan/</link>
+      <title>Shareholder Loan</title>
+      <link>http://localhost:1313/tags/shareholder-loan/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/shareholder-loan/</guid>
+      <guid>http://localhost:1313/tags/shareholder-loan/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Sub-threshold AIFMs</title>
-      <link>https://SV1124.github.io/tags/sub-threshold-aifms/</link>
+      <title>Sub-Threshold AIFMs</title>
+      <link>http://localhost:1313/tags/sub-threshold-aifms/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/sub-threshold-aifms/</guid>
+      <guid>http://localhost:1313/tags/sub-threshold-aifms/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>crypto assets</title>
-      <link>https://SV1124.github.io/tags/crypto-assets/</link>
+      <title>Crypto Assets</title>
+      <link>http://localhost:1313/tags/crypto-assets/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/crypto-assets/</guid>
+      <guid>http://localhost:1313/tags/crypto-assets/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>EU law</title>
-      <link>https://SV1124.github.io/tags/eu-law/</link>
+      <title>EU Law</title>
+      <link>http://localhost:1313/tags/eu-law/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/eu-law/</guid>
+      <guid>http://localhost:1313/tags/eu-law/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>financial instrument</title>
-      <link>https://SV1124.github.io/tags/financial-instrument/</link>
+      <title>Financial Instrument</title>
+      <link>http://localhost:1313/tags/financial-instrument/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/financial-instrument/</guid>
+      <guid>http://localhost:1313/tags/financial-instrument/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MiCA</title>
-      <link>https://SV1124.github.io/tags/mica/</link>
+      <link>http://localhost:1313/tags/mica/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/mica/</guid>
+      <guid>http://localhost:1313/tags/mica/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Transferable security</title>
-      <link>https://SV1124.github.io/tags/transferable-security/</link>
+      <title>Transferable Security</title>
+      <link>http://localhost:1313/tags/transferable-security/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/transferable-security/</guid>
+      <guid>http://localhost:1313/tags/transferable-security/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>linkedin</title>
-      <link>https://SV1124.github.io/tags/linkedin/</link>
+      <title>Linkedin</title>
+      <link>http://localhost:1313/tags/linkedin/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/linkedin/</guid>
+      <guid>http://localhost:1313/tags/linkedin/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>minimal computing</title>
-      <link>https://SV1124.github.io/tags/minimal-computing/</link>
+      <title>Minimal Computing</title>
+      <link>http://localhost:1313/tags/minimal-computing/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/minimal-computing/</guid>
+      <guid>http://localhost:1313/tags/minimal-computing/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>web dev</title>
-      <link>https://SV1124.github.io/tags/web-dev/</link>
+      <title>Web Dev</title>
+      <link>http://localhost:1313/tags/web-dev/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/web-dev/</guid>
+      <guid>http://localhost:1313/tags/web-dev/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>github</title>
-      <link>https://SV1124.github.io/tags/github/</link>
+      <title>Github</title>
+      <link>http://localhost:1313/tags/github/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/github/</guid>
+      <guid>http://localhost:1313/tags/github/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hugo</title>
-      <link>https://SV1124.github.io/tags/hugo/</link>
+      <title>Hugo</title>
+      <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/hugo/</guid>
+      <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ia writer</title>
-      <link>https://SV1124.github.io/tags/ia-writer/</link>
+      <title>Ia Writer</title>
+      <link>http://localhost:1313/tags/ia-writer/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/ia-writer/</guid>
+      <guid>http://localhost:1313/tags/ia-writer/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Belgian law</title>
-      <link>https://SV1124.github.io/tags/belgian-law/</link>
+      <title>Belgian Law</title>
+      <link>http://localhost:1313/tags/belgian-law/</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/belgian-law/</guid>
+      <guid>http://localhost:1313/tags/belgian-law/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>UCITS</title>
-      <link>https://SV1124.github.io/tags/ucits/</link>
+      <link>http://localhost:1313/tags/ucits/</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/ucits/</guid>
+      <guid>http://localhost:1313/tags/ucits/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ESMA</title>
-      <link>https://SV1124.github.io/tags/esma/</link>
+      <link>http://localhost:1313/tags/esma/</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/esma/</guid>
+      <guid>http://localhost:1313/tags/esma/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>marketing</title>
-      <link>https://SV1124.github.io/tags/marketing/</link>
+      <title>Marketing</title>
+      <link>http://localhost:1313/tags/marketing/</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/marketing/</guid>
+      <guid>http://localhost:1313/tags/marketing/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Retail package</title>
-      <link>https://SV1124.github.io/tags/retail-package/</link>
+      <title>Retail Package</title>
+      <link>http://localhost:1313/tags/retail-package/</link>
       <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/retail-package/</guid>
+      <guid>http://localhost:1313/tags/retail-package/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Undue costs</title>
-      <link>https://SV1124.github.io/tags/undue-costs/</link>
+      <title>Undue Costs</title>
+      <link>http://localhost:1313/tags/undue-costs/</link>
       <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/undue-costs/</guid>
+      <guid>http://localhost:1313/tags/undue-costs/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Virtual currencies</title>
-      <link>https://SV1124.github.io/tags/virtual-currencies/</link>
+      <title>Virtual Currencies</title>
+      <link>http://localhost:1313/tags/virtual-currencies/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/virtual-currencies/</guid>
+      <guid>http://localhost:1313/tags/virtual-currencies/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Brexit</title>
-      <link>https://SV1124.github.io/tags/brexit/</link>
+      <link>http://localhost:1313/tags/brexit/</link>
       <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/brexit/</guid>
+      <guid>http://localhost:1313/tags/brexit/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Relocation</title>
-      <link>https://SV1124.github.io/tags/relocation/</link>
+      <link>http://localhost:1313/tags/relocation/</link>
       <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/relocation/</guid>
+      <guid>http://localhost:1313/tags/relocation/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>passporting</title>
-      <link>https://SV1124.github.io/tags/passporting/</link>
+      <title>Passporting</title>
+      <link>http://localhost:1313/tags/passporting/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/passporting/</guid>
+      <guid>http://localhost:1313/tags/passporting/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SPAC</title>
-      <link>https://SV1124.github.io/tags/spac/</link>
+      <link>http://localhost:1313/tags/spac/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/spac/</guid>
+      <guid>http://localhost:1313/tags/spac/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>FTX</title>
-      <link>https://SV1124.github.io/tags/ftx/</link>
+      <link>http://localhost:1313/tags/ftx/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/tags/ftx/</guid>
+      <guid>http://localhost:1313/tags/ftx/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

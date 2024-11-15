@@ -1,42 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>crypto on Steven&#39;s Snippets</title>
-    <link>https://SV1124.github.io/categories/crypto/</link>
-    <description>Recent content in crypto on Steven&#39;s Snippets</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Crypto on Steven&#39;s Snippets</title>
+    <link>http://localhost:1313/categories/crypto/</link>
+    <description>Recent content in Crypto on Steven&#39;s Snippets</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024 Steven Verschoot</copyright>
-    <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://SV1124.github.io/categories/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/crypto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ESMA MiCA consultations on reverse solicitation and qualification of instruments: interesting reads</title>
-      <link>https://SV1124.github.io/posts/new-esma-consultation-on-reverse-solicit/</link>
+      <link>http://localhost:1313/posts/new-esma-consultation-on-reverse-solicit/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/new-esma-consultation-on-reverse-solicit/</guid>
-      <description>The new ESMA consultations on reverse solicitation in the context of MiCA and the qualification of instruments as financial instruments vs. crypto assets are interesting reads, even if only because they basically give a read-up on the status of reverse enquiry and definition(s) of mifid financial instruments in general (in particular on the concept of &amp;rsquo;transferable securities&amp;rsquo;).
-As indicated by people wiser than I am on LinkedIn, the core can be found in paragraph 8 of the consultation on qualification of instruments, i.</description>
+      <guid>http://localhost:1313/posts/new-esma-consultation-on-reverse-solicit/</guid>
+      <description>&lt;p&gt;The new ESMA &lt;a href=&#34;https://www.esma.europa.eu/press-news/esma-news/esma-consults-reverse-solicitation-and-classification-crypto-assets-financial&#34;&gt;consultations on reverse solicitation in the context of MiCA and the qualification of instruments as financial instruments vs. crypto assets&lt;/a&gt; are interesting reads, even if only because they basically give a read-up on the status of reverse enquiry and definition(s) of mifid financial instruments in general (in particular on the concept of &amp;rsquo;transferable securities&amp;rsquo;).&lt;/p&gt;&#xA;&lt;p&gt;As indicated by people wiser than I am on LinkedIn, the core can be found in paragraph 8 of the consultation on qualification of instruments, i.e.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>New regulation on marketing virtual currencies to Belgian consumers</title>
-      <link>https://SV1124.github.io/posts/new-regulation-on-marketing-virtual-curr/</link>
+      <link>http://localhost:1313/posts/new-regulation-on-marketing-virtual-curr/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/new-regulation-on-marketing-virtual-curr/</guid>
-      <description>Crypto-winter does not only seem to be consolidation time for companies involved. It also is for legislators. With MiCA(R) on its way, a new Belgian regulation on marketing virtual currencies to Belgian consumers was published in the Belgian Official Gazette this morning.[1]
-The regulation is based on three elements:
-compliance with minimum rules to ensure that the information in the advertisement is correct and not misleading; the mandatory inclusion of specific warnings in the advertisement; and the obligation to notify the FSMA in advance of mass campaigns.</description>
+      <guid>http://localhost:1313/posts/new-regulation-on-marketing-virtual-curr/</guid>
+      <description>&lt;p&gt;Crypto-winter does not only seem to be consolidation time for companies involved. It also is for legislators. With MiCA(R) on its way, &lt;a href=&#34;https://www.ejustice.just.fgov.be/cgi/article_body.pl?language=nl&amp;amp;caller=summary&amp;amp;pub_date=2023-03-17&amp;amp;numac=2023040640%0D%0A&#34;&gt;a new Belgian regulation on marketing virtual currencies to Belgian consumers was published in the Belgian Official Gazette this morning&lt;/a&gt;.[1]&lt;/p&gt;&#xA;&lt;p&gt;The regulation is based on three elements:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;compliance with minimum rules to ensure that the information in the advertisement is correct and not misleading;&lt;/li&gt;&#xA;&lt;li&gt;the mandatory inclusion of specific warnings in the advertisement; and&lt;/li&gt;&#xA;&lt;li&gt;the obligation to notify the FSMA in advance of mass campaigns.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;It also applies to influencers, and may even apply to so-called ‘shillers’ – so beware.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Some remarks on ESMA&#39;s statement on FTX</title>
-      <link>https://SV1124.github.io/posts/some-remarks-on-esma-statement-on-ftx/</link>
+      <link>http://localhost:1313/posts/some-remarks-on-esma-statement-on-ftx/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://SV1124.github.io/posts/some-remarks-on-esma-statement-on-ftx/</guid>
-      <description>Yesterday, the ESMA provided its perspective on the collapse of FTX (through the opening statement of the Economic and Monetary Affairs Committee of the European Parliament available here). For sure, this is is not the latest we have heard from EU and other regulators on crypto (see ao here), nor the most elaborate discussion, but it does definitely give some pointers on how the EU and its member states might approach crypto winter and the termoil that goes with it.</description>
+      <guid>http://localhost:1313/posts/some-remarks-on-esma-statement-on-ftx/</guid>
+      <description>&lt;p&gt;Yesterday, the ESMA provided its perspective on the collapse of FTX (through the opening statement of the Economic and Monetary Affairs Committee of the European Parliament available &lt;a href=&#34;https://www.esma.europa.eu/file/125647/download?token=9fmK2aEu&#34;&gt;here&lt;/a&gt;). For sure, this is is not the latest we have heard from EU and other regulators on crypto (see ao &lt;a href=&#34;https://www.ft.com/content/c3e58d27-0a77-479f-bf52-b492efebc72f&#34;&gt;here&lt;/a&gt;), nor the most elaborate discussion, but it does definitely give some pointers on how the EU and its member states might approach crypto winter and the termoil that goes with it.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
