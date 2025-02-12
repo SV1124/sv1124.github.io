@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Steven&#39;s Snippets</title>
-    <link>https://SV1124.github.io/publications/</link>
-    <description>Recent content in Publications on Steven&#39;s Snippets</description>
+    <title>Publications on Steven Verschoot</title>
+    <link>http://localhost:1313/publications/</link>
+    <description>Recent content in Publications on Steven Verschoot</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2025 Steven Verschoot</copyright>
-    <atom:link href="https://SV1124.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My publications</title>
-      <link>https://SV1124.github.io/publications/publications/</link>
+      <link>http://localhost:1313/publications/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://SV1124.github.io/publications/publications/</guid>
-      <description>&lt;h3 id=&#34;academic&#34;&gt;Academic&lt;/h3&gt;&#xA;&lt;p&gt;Verschoot, S. (2024). Standpunt : Monastic governance : voorbij de autoritaire abt. Tijdschrift voor Rechtspersoon en Vennootschap, 2024 (5), 421-438.&lt;/p&gt;&#xA;&lt;p&gt;Verschoot, S. (2024). All over the place : ETS emission allowances in EU financial regulation. Tijdschrift voor Rechtspersoon en Vennootschap, 2024 (1), 5-28.&lt;/p&gt;&#xA;&lt;p&gt;Verschoot, S. (2015). Een analyse van catastrofe-obligaties: een geheel in drie delen. Tijdschrift voor Privaatrecht, 2015 (3), 1055-1111.&lt;/p&gt;&#xA;&lt;p&gt;Verschoot, S. (2013). Ohada: naar corporate governance op basis van enlightened shareholder value? Jura Falconis, 2013 (4), 647-661.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/publications/publications/</guid>
+      <description>&lt;h3 class=&#34;heading&#34; id=&#34;academic&#34;&gt;&#xA;  Academic&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#academic&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Verschoot, S. (2024). Standpunt : Monastic governance : voorbij de autoritaire abt. Tijdschrift voor Rechtspersoon en Vennootschap, 2024 (5), 421-438.&lt;/p&gt;&#xA;&lt;p&gt;Verschoot, S. (2024). All over the place : ETS emission allowances in EU financial regulation. Tijdschrift voor Rechtspersoon en Vennootschap, 2024 (1), 5-28.&lt;/p&gt;&#xA;&lt;p&gt;Verschoot, S. (2015). Een analyse van catastrofe-obligaties: een geheel in drie delen. Tijdschrift voor Privaatrecht, 2015 (3), 1055-1111.&lt;/p&gt;&#xA;&lt;p&gt;Verschoot, S. (2013). Ohada: naar corporate governance op basis van enlightened shareholder value? Jura Falconis, 2013 (4), 647-661.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
