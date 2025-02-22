@@ -7,13 +7,27 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2025 Steven Verschoot</copyright>
-    <lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://SV1124.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dutch</title>
       <link>https://SV1124.github.io/categories/dutch/</link>
-      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://SV1124.github.io/categories/dutch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Legal</title>
+      <link>https://SV1124.github.io/categories/legal/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/categories/legal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monastic Life</title>
+      <link>https://SV1124.github.io/categories/monastic-life/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/categories/monastic-life/</guid>
       <description></description>
     </item>
     <item>
@@ -28,13 +42,6 @@
       <link>https://SV1124.github.io/categories/history/</link>
       <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://SV1124.github.io/categories/history/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Monastic Life</title>
-      <link>https://SV1124.github.io/categories/monastic-life/</link>
-      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://SV1124.github.io/categories/monastic-life/</guid>
       <description></description>
     </item>
     <item>
