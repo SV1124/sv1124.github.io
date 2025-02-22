@@ -7,22 +7,8 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2025 Steven Verschoot</copyright>
-    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://SV1124.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Minimal Computing</title>
-      <link>https://SV1124.github.io/tags/minimal-computing/</link>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://SV1124.github.io/tags/minimal-computing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Overpeinzingen</title>
-      <link>https://SV1124.github.io/tags/overpeinzingen/</link>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://SV1124.github.io/tags/overpeinzingen/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Abbeys</title>
       <link>https://SV1124.github.io/tags/abbeys/</link>
@@ -259,6 +245,13 @@
       <link>https://SV1124.github.io/tags/linkedin/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://SV1124.github.io/tags/linkedin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Minimal Computing</title>
+      <link>https://SV1124.github.io/tags/minimal-computing/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://SV1124.github.io/tags/minimal-computing/</guid>
       <description></description>
     </item>
     <item>
