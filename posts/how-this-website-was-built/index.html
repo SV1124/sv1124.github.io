@@ -26,21 +26,15 @@
 
 <link rel="canonical" href="https://SV1124.github.io/posts/how-this-website-was-built/"/>
 
-<meta property="og:url" content="https://SV1124.github.io/posts/how-this-website-was-built/">
-  <meta property="og:site_name" content="Steven Verschoot">
-  <meta property="og:title" content="How this website was built">
-  <meta property="og:description" content="Websites usually do not have a ‘how it was built’ page.
+<meta property="og:title" content="How this website was built" />
+<meta property="og:description" content="Websites usually do not have a &lsquo;how it was built&rsquo; page.
 But for this one, I felt compelled to have one. I would not have been able to build this without freely available tools, software and guidance. I am convinced that when taking stuff from a community, one should also use best efforts to contribute. Let this be my humble contribution.
-Hope it may provide some inspiration or help to other people considering building their own blog or webpage and looking past the well-trodden CMS, Wix’es or Squarespaces of this world.">
-  <meta property="og:locale" content="en_us">
-  <meta property="og:type" content="article">
-    <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2023-12-28T00:00:00+00:00">
-    <meta property="article:modified_time" content="2023-12-28T00:00:00+00:00">
-    <meta property="article:tag" content="Web Dev">
-    <meta property="article:tag" content="Hugo">
-    <meta property="article:tag" content="Github">
-    <meta property="article:tag" content="Ia Writer">
+Hope it may provide some inspiration or help to other people considering building their own blog or webpage and looking past the well-trodden CMS, Wix&rsquo;es or Squarespaces of this world." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://SV1124.github.io/posts/how-this-website-was-built/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-12-28T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-12-28T00:00:00+00:00" />
+
 
 
 
@@ -248,7 +242,7 @@ Hope it may provide some inspiration or help to other people considering buildin
 <p>Note that I only used github pages to <em>host</em> my hugo-built website, I did not design the website using github pages (which is an option as well - such websites are powered by Jekyll).</p>
 <p>Other hostings that come by often when looking for Hugo hosting are netifly, gitlab, AWS amplify and Azure static web pages. <a href="https://gohugo.io/hosting-and-deployment/">Hugo documentation provides inspiration and assistance.</a></p>
 <h2 class="heading" id="5-writing-ia-writer-and-notepad">
-  5. Writing: IA writer and notepad++
+  5. Writing: IA writer and notepad&#43;&#43;
   <a class="anchor" href="#5-writing-ia-writer-and-notepad">#</a>
 </h2>
 <p>Hugo does not have a wysiwyg editor. Instead, content is written in markdown. If you aren&rsquo;t used to this, it is a bit of a learning curve - but it&rsquo;s easy to grasp. A complete guide is available for free <a href="https://www.markdownguide.org/getting-started/">here</a>.</p>
@@ -269,23 +263,30 @@ Hope it may provide some inspiration or help to other people considering buildin
 </h3>
 <p>Let&rsquo;s start by installing <a href="https://gohugo.io/installation/windows/">Hugo</a>. To be able to get Hugo, we need a content manager. I used <a href="https://github.com/ScoopInstaller/Scoop">scoop</a>, others (ao Winget and Chocolatey) are available. To do so, I first had to set my execution policy (of course in powershell).</p>
 <blockquote>
-<p>Set-ExecutionPolicy RemoteSigned -Scope steve</p></blockquote>
+<p>Set-ExecutionPolicy RemoteSigned -Scope steve</p>
+</blockquote>
 <p>Then install Scoop.</p>
 <blockquote>
-<p>iwr -useb get.scoop.sh | iex</p></blockquote>
+<p>iwr -useb get.scoop.sh | iex</p>
+</blockquote>
 <p>And Hugo (go for the extended version).</p>
 <blockquote>
-<p>scoop intall hugo-extended</p></blockquote>
+<p>scoop intall hugo-extended</p>
+</blockquote>
 <p>If you are going to be using github (as I did), you will also need Git installed on your PC. I would suggest to follow the <a href="https://github.com/git-guides/install-git">installation guide available on Github.</a>. A grapical interface is available, but Git Bash is what you will need, as it allows to use text-based commands.</p>
 <p>Alternatively (and this is the approach I followed), you can install posh-git in the powershell (see the guide <a href="https://git-scm.com/book/ms/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Powershell">here</a> and even more detailed guidance <a href="https://computingforgeeks.com/posh-git-powershell-environment-for-git/">here</a> if the below wouldn&rsquo;t work for you or if you need additional guidance), allowing you to communicate with github through the powershell. To do so we will install posh-git, import it into the powershell profile.</p>
 <blockquote>
-<p>update-module powershellget -force</p></blockquote>
+<p>update-module powershellget -force</p>
+</blockquote>
 <blockquote>
-<p>install-module posh-git -scope steve -force</p></blockquote>
+<p>install-module posh-git -scope steve -force</p>
+</blockquote>
 <blockquote>
-<p>import-module posh-git</p></blockquote>
+<p>import-module posh-git</p>
+</blockquote>
 <blockquote>
-<p>add-poshgittoprofile -allhosts</p></blockquote>
+<p>add-poshgittoprofile -allhosts</p>
+</blockquote>
 <h3 class="heading" id="62-get-a-github-account-and-set-up-two-repositories">
   6.2 Get a github account and set up two repositories
   <a class="anchor" href="#62-get-a-github-account-and-set-up-two-repositories">#</a>
@@ -299,19 +300,23 @@ Hope it may provide some inspiration or help to other people considering buildin
 </ul>
 <p>In Powershell, clone the Blog repository and open it.</p>
 <blockquote>
-<p>git clone <a href="https://github.com/SV1124/Blog.git">https://github.com/SV1124/Blog.git</a></p></blockquote>
+<p>git clone <a href="https://github.com/SV1124/Blog.git">https://github.com/SV1124/Blog.git</a></p>
+</blockquote>
 <blockquote>
-<p>cd Blog</p></blockquote>
+<p>cd Blog</p>
+</blockquote>
 <h3 class="heading" id="63-actually-make-the-new-website">
   6.3 Actually make the new website
   <a class="anchor" href="#63-actually-make-the-new-website">#</a>
 </h3>
 <p>Next up: rendering the new website.</p>
 <blockquote>
-<p>hugo new site stevenssnippets</p></blockquote>
+<p>hugo new site stevenssnippets</p>
+</blockquote>
 <p>And opening it.</p>
 <blockquote>
-<p>cd stevenssnippets</p></blockquote>
+<p>cd stevenssnippets</p>
+</blockquote>
 <p>Now you find yourself in the Hugo file structure.</p>
 <h3 class="heading" id="64-install-my-theme">
   6.4 Install my theme
@@ -320,10 +325,12 @@ Hope it may provide some inspiration or help to other people considering buildin
 <p>As indicated above, I went for whiteplain.</p>
 <p>In stevenssnippets, I opened up the themes folder.</p>
 <blockquote>
-<p>cd themes</p></blockquote>
+<p>cd themes</p>
+</blockquote>
 <p>Then installed the Whiteplain theme.</p>
 <blockquote>
-<p>git clone <a href="https://github.com/taikii/whiteplain.git">https://github.com/taikii/whiteplain.git</a></p></blockquote>
+<p>git clone <a href="https://github.com/taikii/whiteplain.git">https://github.com/taikii/whiteplain.git</a></p>
+</blockquote>
 <p>Went back to the stevenssnippets-folder, opened Hugo.toml and copied the whiteplain configuration file in there (available <a href="https://themes.gohugo.io/themes/whiteplain/#configration">here</a>).</p>
 <p>In the Hugo.toml file (which I opened using notepad++), the baseurl should be the github pages repo (including &ldquo;/&rdquo; at the end).</p>
 <pre><code>baseurl = &quot;https://sv1124.github.io/&quot;
@@ -332,7 +339,8 @@ theme = &quot;whiteplain&quot;
 </code></pre>
 <p>This is where I gave the website its first &rsquo;testrun&rsquo; from the &lsquo;stevenssnippets&rsquo; folder.</p>
 <blockquote>
-<p>hugo serve</p></blockquote>
+<p>hugo serve</p>
+</blockquote>
 <p>Now, in my browser, a live version was available on localhost:1313.</p>
 <h3 class="heading" id="65-populate-with-content">
   6.5 Populate with content
@@ -376,30 +384,39 @@ categories = [
 <p>Now, in Powershell, back to my desktop.
 Over there, made the second repo.</p>
 <blockquote>
-<p>git clone <a href="https://github.com/sv1124/sv1124.github.io.git">https://github.com/sv1124/sv1124.github.io.git</a></p></blockquote>
+<p>git clone <a href="https://github.com/sv1124/sv1124.github.io.git">https://github.com/sv1124/sv1124.github.io.git</a></p>
+</blockquote>
 <p>Open it up.</p>
 <blockquote>
-<p>cd sv1124.github.io</p></blockquote>
+<p>cd sv1124.github.io</p>
+</blockquote>
 <p>Set up main branch.</p>
 <blockquote>
-<p>git checkout -b main</p></blockquote>
+<p>git checkout -b main</p>
+</blockquote>
 <p>Make a readme file to avoid having an empty repo.</p>
 <blockquote>
-<p>new-item readme.md</p></blockquote>
+<p>new-item readme.md</p>
+</blockquote>
 <p>Commit that new readme to github, with the message &ldquo;readme&rdquo;, and push it to the main branch.</p>
 <blockquote>
-<p>add .</p></blockquote>
+<p>add .</p>
+</blockquote>
 <blockquote>
-<p>commit -m &ldquo;readme&rdquo;</p></blockquote>
+<p>commit -m &ldquo;readme&rdquo;</p>
+</blockquote>
 <blockquote>
-<p>git push origin main</p></blockquote>
+<p>git push origin main</p>
+</blockquote>
 <p>Now, on github.com, we can check the new &lsquo;main&rsquo; branch being available &amp; the readme file being included in there.</p>
 <p>After this, went back to my \blog\stevenssnippets folder, to add a git <a href="https://git-scm.com/book/en/v2/Git-Tools-Submodules">submodule, which allows me to keep a git repo as a subdirectory of another repo</a>.</p>
 <blockquote>
-<p>git submodule add -b main <a href="https://github.com/sv1124/sv1124.github.io.git">https://github.com/sv1124/sv1124.github.io.git</a></p></blockquote>
+<p>git submodule add -b main <a href="https://github.com/sv1124/sv1124.github.io.git">https://github.com/sv1124/sv1124.github.io.git</a></p>
+</blockquote>
 <p>Now, when opening the public folder in \blog\stevenssnippets\public, the readme document created above is available there as well.Using the command</p>
 <blockquote>
-<p>git remote -v</p></blockquote>
+<p>git remote -v</p>
+</blockquote>
 <p>You can see that the git in fact refers back to the other repo.</p>
 <h3 class="heading" id="67-deploy-and-enjoy">
   6.7 Deploy and enjoy!
@@ -407,18 +424,23 @@ Over there, made the second repo.</p>
 </h3>
 <p>Went back to \blog\stevenssnippets, and built the website with Hugo.</p>
 <blockquote>
-<p>Hugo</p></blockquote>
+<p>Hugo</p>
+</blockquote>
 <p>Hugo has now done its thing compiling template and content, and the built up website is available in \blog\stevenssnippets\public.</p>
 <p>Open that folder.</p>
 <blockquote>
-<p>cd public</p></blockquote>
+<p>cd public</p>
+</blockquote>
 <p>And now, deploy.</p>
 <blockquote>
-<p>add .</p></blockquote>
+<p>add .</p>
+</blockquote>
 <blockquote>
-<p>commit -m &ldquo;initial deployment&rdquo;</p></blockquote>
+<p>commit -m &ldquo;initial deployment&rdquo;</p>
+</blockquote>
 <blockquote>
-<p>git push origin main</p></blockquote>
+<p>git push origin main</p>
+</blockquote>
 <p>This step 6.7 will be repeated for every amendment to be made to the website.</p>
 <p>After 5 to 10 minutes (sometimes even after 1 or 2 minutes) the website is available on github, and on github pages (i.e. https://<em>myusername</em>.github.io, in my case <a href="https://sv1124.github.io">https://sv1124.github.io</a>).</p>
 <p>Enjoy (and let me know if any of the above doesn&rsquo;t work!).</p>
@@ -432,11 +454,13 @@ Over there, made the second repo.</p>
 </h3>
 <p>When adding my files to github, I always got the following warning:</p>
 <blockquote>
-<p>warning: in the working copy of &lsquo;$$&rsquo;, LF will be replaced by CRLF the next time Git touches it</p></blockquote>
+<p>warning: in the working copy of &lsquo;$$&rsquo;, LF will be replaced by CRLF the next time Git touches it</p>
+</blockquote>
 <p>On the basis of <a href="https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important">this</a> very useful answer on stackoverflow, and the <a href="https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration#Formatting-and-Whitespace">git documentation </a> on this matter, I learned that this is due to the difference between unix systems presenting the end of a line with a line feed (LF) and windows with a carriage return and line feed (CRLF). The theme I am using was likely coded using a unix system, hence the warning.</p>
 <p>I turned off the warning with the following command, which in fact auto-converts CRLF line endings into LF when I add a file to the index, and vice versa when it checks out code onto your filesystem.</p>
 <blockquote>
-<p>git config core.autocrlf true</p></blockquote>
+<p>git config core.autocrlf true</p>
+</blockquote>
 <p>I understand from the documentation that this should not be used too lightly when cooperating with people on other machines, but as I am not a programmer actually using git to cooperate, for me that&rsquo;s not a major issue.</p>
 <h3 class="heading" id="72-theme-update">
   7.2 Theme update

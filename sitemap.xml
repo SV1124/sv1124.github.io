@@ -3,13 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://SV1124.github.io/</loc>
-    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://SV1124.github.io/categories/</loc>
-    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://SV1124.github.io/tags/</loc>
-    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/tags/judge/</loc>
+    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/categories/personal/</loc>
+    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/posts/</loc>
+    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/tags/recognition/</loc>
+    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/posts/rising-star/</loc>
+    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/categories/academic/</loc>
+    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/tags/footnotes/</loc>
+    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/posts/on-footnotes/</loc>
+    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://SV1124.github.io/tags/writing/</loc>
+    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://SV1124.github.io/categories/dutch/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
@@ -26,19 +53,16 @@
     <loc>https://SV1124.github.io/categories/monastic-life/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://SV1124.github.io/posts/</loc>
-    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://SV1124.github.io/tags/abbeys/</loc>
     <lastmod>2024-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://SV1124.github.io/tags/benedictine-monks/</loc>
     <lastmod>2024-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://SV1124.github.io/categories/governance/</loc>
+    <loc>https://SV1124.github.io/tags/governance/</loc>
     <lastmod>2024-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://SV1124.github.io/tags/governance/</loc>
+    <loc>https://SV1124.github.io/categories/governance/</loc>
     <lastmod>2024-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://SV1124.github.io/posts/abdijen-monastiek/</loc>
@@ -50,10 +74,10 @@
     <loc>https://SV1124.github.io/tags/st.-benedict/</loc>
     <lastmod>2024-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://SV1124.github.io/categories/aifmd-ii/</loc>
+    <loc>https://SV1124.github.io/tags/aifmd-ii/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://SV1124.github.io/tags/aifmd-ii/</loc>
+    <loc>https://SV1124.github.io/categories/aifmd-ii/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://SV1124.github.io/tags/aml/</loc>
@@ -129,9 +153,6 @@
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://SV1124.github.io/tags/outsourcing/</loc>
-    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://SV1124.github.io/categories/personal/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://SV1124.github.io/tags/privacy/</loc>
@@ -224,10 +245,10 @@
     <loc>https://SV1124.github.io/posts/new-regulation-on-marketing-virtual-curr/</loc>
     <lastmod>2023-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://SV1124.github.io/categories/virtual-currencies/</loc>
+    <loc>https://SV1124.github.io/tags/virtual-currencies/</loc>
     <lastmod>2023-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://SV1124.github.io/tags/virtual-currencies/</loc>
+    <loc>https://SV1124.github.io/categories/virtual-currencies/</loc>
     <lastmod>2023-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://SV1124.github.io/posts/new-esma-qa-on-sub-threshold-aifms-does/</loc>
